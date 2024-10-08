@@ -14,6 +14,106 @@
       "text": "En quelle année a commencé la Première Guerre mondiale ?",
       "options": ["1914", "1918", "1939"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Indien", "Pacifique"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a écrit '1984' ?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'élément chimique le plus abondant dans l'univers ?",
+      "options": ["Oxygène", "Carbone", "Hydrogène"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la plus haute montagne du monde ?",
+      "options": ["K2", "Mont Blanc", "Mont Everest"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a formulé la théorie de la relativité ?",
+      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le plus grand désert du monde ?",
+      "options": ["Sahara", "Gobi", "Antarctique"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a écrit 'Les Misérables' ?",
+      "options": ["Victor Hugo", "Émile Zola", "Gustave Flaubert"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le plus grand pays d'Afrique en termes de superficie ?",
+      "options": ["Nigeria", "Égypte", "Algérie"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a peint 'La Nuit étoilée' ?",
+      "options": ["Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le plus long fleuve du monde ?",
+      "options": ["Amazone", "Nil", "Mississippi"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
+      "options": ["1965", "1969", "1971"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a écrit 'Roméo et Juliette' ?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le plus grand organe du corps humain ?",
+      "options": ["Foie", "Cerveau", "Peau"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la plus grande planète du système solaire ?",
+      "options": ["Saturne", "Jupiter", "Neptune"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a peint le plafond de la chapelle Sixtine ?",
+      "options": ["Raphaël", "Michel-Ange", "Léonard de Vinci"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le métal le plus précieux ?",
+      "options": ["Or", "Platine", "Rhodium"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la capitale du Japon ?",
+      "options": ["Séoul", "Pékin", "Tokyo"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a découvert l'Amérique ?",
+      "options": ["Christophe Colomb", "Marco Polo", "Ferdinand Magellan"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la capitale du Canada ?",
+      "options": ["Toronto", "Ottawa", "Vancouver"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "En quelle année le Titanic a-t-il coulé ?",
+      "options": ["1905", "1912", "1918"],
+      "correctAnswer": 1
     }
   ],
   "ANGLAIS": [
@@ -31,23 +131,223 @@
       "text": "What is the opposite of 'hot'?",
       "options": ["Warm", "Cold", "Cool"],
       "correctAnswer": 1
+    },
+    {
+      "text": "Which is the correct spelling?",
+      "options": ["Accomodate", "Accommodate", "Acommodate"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the plural of 'child'?",
+      "options": ["Childs", "Childen", "Children"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Which sentence is grammatically correct?",
+      "options": ["I am going to the park", "I going to the park", "Me going to the park"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What does 'BBC' stand for?",
+      "options": ["British Broadcasting Corporation", "British Business Channel", "British Baking Company"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Which sentence uses the correct form of 'its'?",
+      "options": ["It's raining outside", "Its raining outside", "Its' raining outside"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the past tense of 'sing'?",
+      "options": ["Singed", "Sang", "Song"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which sentence is in the future tense?",
+      "options": ["I am going to the store", "I will go to the store", "I went to the store"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which word is a verb?",
+      "options": ["Beautiful", "Walk", "Quick"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the meaning of the word 'benevolent'?",
+      "options": ["Kind", "Greedy", "Mean"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What does the suffix '-ly' typically indicate?",
+      "options": ["A noun", "An adjective", "An adverb"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Which is the correct form of 'too'?",
+      "options": ["I have too much homework", "I have to much homework", "I have two much homework"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the superlative form of 'good'?",
+      "options": ["Gooder", "Better", "Best"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Which word is spelled correctly?",
+      "options": ["Definately", "Definitely", "Definitly"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the past participle of 'begin'?",
+      "options": ["Began", "Begun", "Begined"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which sentence is in the present continuous tense?",
+      "options": ["She is eating", "She eats", "She ate"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Which word is an antonym for 'high'?",
+      "options": ["Low", "Tall", "Short"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the past tense of 'take'?",
+      "options": ["Took", "Taken", "Tooked"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Which word is a preposition?",
+      "options": ["Run", "On", "Beautiful"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What does 'NASA' stand for?",
+      "options": ["National Aeronautics and Space Administration", "National Astronomy and Science Agency", "New American Space Agency"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the meaning of the prefix 're-'?",
+      "options": ["Not", "Again", "Before"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the opposite of 'good'?",
+      "options": ["Bad", "Worse", "Great"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the superlative form of 'bad'?",
+      "options": ["Badder", "Worst", "Worse"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which word is a noun?",
+      "options": ["Happiness", "Happily", "Happy"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the past tense of 'give'?",
+      "options": ["Gived", "Gave", "Given"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which word is spelled correctly?",
+      "options": ["Separetly", "Separately", "Separateley"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which is the correct tag question for 'She is coming, ___?'",
+      "options": ["is she", "isn't she", "are she"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What is the plural of 'tooth'?",
+      "options": ["Tooths", "Teeth", "Toothes"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Which sentence uses the correct form of 'their'?",
+      "options": ["Their going to the store", "They're going to the store", "There going to the store"],
+      "correctAnswer": 1
     }
   ],
   "LOGIQUE": [
     {
-      "text": "Si A implique B, et B implique C, que peut-on dire de A et C ?",
-      "options": ["A implique C", "C implique A", "A et C sont indépendants"],
+      "text": "Combien de temps faut-il pour scier une bûche en 10 morceaux si on met 3 minutes et 8 secondes pour la scier en 5 ?",
+      "options": ["6 min 16 s", "7 min 03 s", "7 min 50 s"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la vitesse en km/h d'un sprinter qui met 10s pour parcourir 100m ?",
+      "options": ["30 km/h", "36 km/h", "40 km/h"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est l'unité principale de mesure des masses ?",
+      "options": ["Kilogramme", "Gramme", "Tonne"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est l'unité principale de mesure des capacités ?",
+      "options": ["Millilitre", "Litre", "Centilitre"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Combien y a-t-il de secondes dans une heure ?",
+      "options": ["3000", "3600", "6000"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le PPCM de 12 et 18 ?",
+      "options": ["24", "36", "72"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Comment s'écrit 10.000 en lettres ?",
+      "options": ["Dix milles", "Dix mille", "Dix mil"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le chiffre des unités du nombre 176,34 ?",
+      "options": ["4", "3", "6"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la valeur de 4992 ?",
+      "options": ["249001", "250001", "250081"],
       "correctAnswer": 0
     },
     {
-      "text": "Complétez la suite : 2, 4, 8, 16, ...",
-      "options": ["24", "32", "64"],
+      "text": "Quel est le résultat de 43,01 × 101 ?",
+      "options": ["4344,01", "4752,2", "4752"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de 5 × 5,4 ?",
+      "options": ["27,0", "26,0", "30,4"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le résultat approximatif de 2932 × 512 ?",
+      "options": ["150 000", "1 500 000", "15 000"],
       "correctAnswer": 1
     },
     {
-      "text": "Quel est le PGCD de 12 et 18 ?",
-      "options": ["3", "6", "9"],
-      "correctAnswer": 1
+      "text": "Comment s'écrit le nombre 1582 en chiffres romains ?",
+      "options": ["MDLXXXII", "MCMLXXXII", "MDCCCLXXXII"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de 36 ÷ 0,04 ?",
+      "options": ["900", "90", "9"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de grammes de farine reste-t-il dans un sac de 1kg après avoir utilisé 100g, puis 1/3 du reste, puis 1/5 du nouveau reste ?",
+      "options": ["480g", "520g", "540g"],
+      "correctAnswer": 0
     }
   ],
   "SCIENCE": [
@@ -65,10 +365,70 @@
       "text": "Quel est le symbole chimique de l'or ?",
       "options": ["Au", "Ag", "Fe"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quelle planète est connue comme la planète rouge ?",
+      "options": ["Venus", "Mars", "Jupiter"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a formulé la théorie de la relativité ?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la particule subatomique sans charge électrique ?",
+      "options": ["Neutron", "Proton", "Électron"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le premier élément du tableau périodique ?",
+      "options": ["Hélium", "Lithium", "Hydrogène"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la loi qui décrit la relation entre la pression et le volume d'un gaz à température constante ?",
+      "options": ["Loi de Charles", "Loi de Gay-Lussac", "Loi de Boyle-Mariotte"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est l'unité de mesure de la résistance électrique ?",
+      "options": ["Watt", "Ohm", "Volt"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle théorie explique l'expansion de l'univers à partir d'un point dense et chaud ?",
+      "options": ["Théorie de la Relativité Générale", "Théorie du Big Bang", "Théorie des Cordes"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel physicien est connu pour ses travaux sur l'électromagnétisme ?",
+      "options": ["Michael Faraday", "Albert Einstein", "James Clerk Maxwell"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est l'isotope radioactif couramment utilisé pour dater des objets biologiques ?",
+      "options": ["Carbone-14", "Potassium-40", "Uranium-238"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la force responsable du maintien des protons et des neutrons dans le noyau atomique ?",
+      "options": ["Force nucléaire forte", "Force électromagnétique", "Force nucléaire faible"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'acide nucléique qui code l'information génétique ?",
+      "options": ["Protéine", "ADN", "ARN"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel phénomène se produit lorsque la lumière change de direction en passant d'un milieu à un autre ?",
+      "options": ["Réflexion", "Réfraction", "Diffraction"],
+      "correctAnswer": 1
     }
   ],
   "LITTERATURE_AFRICAINE": [
-    {
+     {
       "text": "Qui a écrit 'Une si longue lettre' ?",
       "options": ["Mariama Bâ", "Aminata Sow Fall", "Fatou Diome"],
       "correctAnswer": 0
@@ -82,9 +442,70 @@
       "text": "Qui est l'auteur de 'L'Aventure ambiguë' ?",
       "options": ["Cheikh Hamidou Kane", "Léopold Sédar Senghor", "Birago Diop"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel écrivain nigérian a écrit 'Le monde s'effondre' ?",
+      "options": ["Chinua Achebe", "Wole Soyinka", "Ben Okri"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Gouverneurs de la rosée' ?",
+      "options": ["Jacques Roumain", "René Depestre", "Dany Laferrière"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel poète sénégalais est l'auteur de 'Chants d'ombre' ?",
+      "options": ["Léopold Sédar Senghor", "Léon Damas", "Aimé Césaire"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Les boeufs de la plaine' ?",
+      "options": ["Ahmadou Kourouma", "Léon Damas", "Ousmane Sembène"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel écrivain sud-africain a reçu le prix Nobel de littérature en 1991 ?",
+      "options": ["J.M. Coetzee", "Nadine Gordimer", "Zadie Smith"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Le temps des miracles' ?",
+      "options": ["Céline Minard", "Aminata Sow Fall", "Marie NDiaye"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le titre du roman de Chimamanda Ngozi Adichie qui traite de l'immigration ?",
+      "options": ["Americanah", "Half of a Yellow Sun", "Purple Hibiscus"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui est l'auteur de 'Une femme' ?",
+      "options": ["Marie NDiaye", "Mya-Rose Craig", "Fatou Diome"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel écrivain algérien a écrit 'L'Étranger' ?",
+      "options": ["Albert Camus", "Assia Djebar", "Mohamed Dib"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Le ventre de l'Atlantique' ?",
+      "options": ["Fatou Diome", "Khaled Hosseini", "Mariama Bâ"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel poète togolais a écrit 'Les yeux du cœur' ?",
+      "options": ["Paul Éluard", "Tchicaya U Tam'si", "Léopold Sédar Senghor"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui est l'auteur de 'La noya' ?",
+      "options": ["Ken Bugul", "Ngũgĩ wa Thiong'o", "Wole Soyinka"],
+      "correctAnswer": 0
     }
   ],
-  "SPORT": [
+
+"SPORT": [
     {
       "text": "Dans quel sport utilise-t-on un javelot ?",
       "options": ["Athlétisme", "Natation", "Cyclisme"],
@@ -99,15 +520,71 @@
       "text": "Quel pays a remporté la Coupe du Monde de football 2018 ?",
       "options": ["Brésil", "Allemagne", "France"],
       "correctAnswer": 2
-    }
-  ],
-  "GUERRES": [
+    },
     {
-      "text": "En quelle année a commencé la Première Guerre mondiale ?",
-      "options": ["1914", "1918", "1939"],
+      "text": "Dans quel sport le terme 'essai' est-il utilisé ?",
+      "options": ["Tennis", "Rugby", "Golf"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle distance parcourt un marathon ?",
+      "options": ["30,5 km", "42,195 km", "50 km"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays a remporté la Coupe du Monde de la FIFA en 2018 ?",
+      "options": ["Brésil", "France", "Allemagne"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui est le joueur de tennis ayant remporté le plus de titres du Grand Chelem ?",
+      "options": ["Rafael Nadal", "Roger Federer", "Novak Djokovic"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel sport est associé à des termes comme 'slam dunk' et 'three-pointer' ?",
+      "options": ["Football", "Basketball", "Rugby"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays a organisé les Jeux Olympiques d'été en 2008 ?",
+      "options": ["Chine", "Royaume-Uni", "États-Unis"],
       "correctAnswer": 0
     },
     {
+      "text": "Qui a remporté le Tour de France en 2020 ?",
+      "options": ["Chris Froome", "Egan Bernal", "Tadej Pogačar"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du tournoi de tennis joué sur gazon à Wimbledon ?",
+      "options": ["Roland-Garros", "US Open", "Wimbledon"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel sport se joue sur un terrain de 100 mètres de long avec un ballon ovale ?",
+      "options": ["Football", "Rugby", "Cricket"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel athlète a établi le record du monde du 100 mètres en 2009 ?",
+      "options": ["Usain Bolt", "Jesse Owens", "Carl Lewis"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le sport national du Japon ?",
+      "options": ["Baseball", "Karate", "Sumo"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel pays a remporté le plus de médailles aux Jeux Olympiques d'été ?",
+      "options": ["Soviet Union", "Chine", "États-Unis"],
+      "correctAnswer": 2
+    }
+  ],
+  
+  "GUERRES": [
+     {
       "text": "Qui était le leader de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
       "options": ["Joseph Staline", "Adolf Hitler", "Benito Mussolini"],
       "correctAnswer": 1
@@ -116,6 +593,71 @@
       "text": "Quelle bataille est considérée comme le tournant de la Seconde Guerre mondiale sur le front de l'Est ?",
       "options": ["Bataille de Stalingrad", "Bataille de Moscou", "Bataille de Koursk"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a largué les bombes atomiques sur Hiroshima et Nagasaki ?",
+      "options": ["Russie", "Allemagne", "États-Unis"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle guerre est souvent appelée la 'guerre froide' ?",
+      "options": ["Guerre de Corée", "Guerre du Vietnam", "Conflit USA-URSS"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": ["Traité de Versailles", "Traité de Trianon", "Traité de Saint-Germain"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui était le leader soviétique pendant la Seconde Guerre mondiale ?",
+      "options": ["Joseph Staline", "Vladimir Lénine", "Leon Trotsky"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement a déclenché la Seconde Guerre mondiale ?",
+      "options": ["Invasion de la Pologne", "Attaque de Pearl Harbor", "Invasion de la France"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été le premier à capituler face à l'Allemagne nazie ?",
+      "options": ["France", "Pologne", "Royaume-Uni"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle bataille est souvent considérée comme le tournant de la Seconde Guerre mondiale en Europe ?",
+      "options": ["Bataille de Stalingrad", "Bataille de Midway", "Bataille de Normandie"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
+      "options": ["Franklin D. Roosevelt", "Harry S. Truman", "Dwight D. Eisenhower"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été attaqué par le Japon en 1941, entraînant l'entrée des États-Unis dans la Seconde Guerre mondiale ?",
+      "options": ["Chine", "Philippines", "Hawaï"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du célèbre discours de Winston Churchill en 1940 ?",
+      "options": ["We shall fight on the beaches", "Never surrender", "Blood, toil, tears, and sweat"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle était la principale alliance des puissances de l'Axe pendant la Seconde Guerre mondiale ?",
+      "options": ["Allemagne, Italie, Japon", "Allemagne, France, Japon", "Royaume-Uni, États-Unis, URSS"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le nom de l'opération qui a marqué le débarquement en Normandie en 1944 ?",
+      "options": ["Opération Overlord", "Opération Barbarossa", "Opération Market Garden"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été le théâtre de la première utilisation de la bombe atomique en 1945 ?",
+      "options": ["Nagasaki", "Hiroshima", "Tokyo"],
+      "correctAnswer": 1
     }
   ],
   "CORPS_HUMAIN": [
@@ -132,6 +674,66 @@
     {
       "text": "Quelle est la fonction principale des globules rouges ?",
       "options": ["Combattre les infections", "Transporter l'oxygène", "Coaguler le sang"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Dans quelle partie du corps se trouve le pancréas ?",
+      "options": ["Thorax", "Abdomen", "Pelvis"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom du muscle le plus puissant du corps humain ?",
+      "options": ["Quadriceps", "Biceps", "Masséter"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de muscles compte en moyenne le corps humain ?",
+      "options": ["600", "850", "320"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le principal organe de la respiration ?",
+      "options": ["Cœur", "Poumons", "Foie"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom de la cellule responsable de la transmission de l'influx nerveux ?",
+      "options": ["Neuron", "Globule rouge", "Lymphocyte"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nombre de côtes dans le corps humain ?",
+      "options": ["12 paires", "24", "16 paires"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du muscle principal de la respiration ?",
+      "options": ["Diaphragme", "Intercostaux", "Pectoraux"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel os est le plus long du corps humain ?",
+      "options": ["Fémur", "Humérus", "Tibia"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle hormone régule le métabolisme ?",
+      "options": ["Insuline", "Adrénaline", "Thyroxine"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nombre de vertèbres dans la colonne vertébrale humaine ?",
+      "options": ["33", "26", "24"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le principal composant du sang ?",
+      "options": ["Plasma", "Globules rouges", "Globules blancs"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel organe est responsable de la filtration du sang ?",
+      "options": ["Foie", "Reins", "Cœur"],
       "correctAnswer": 1
     }
   ],
@@ -150,6 +752,66 @@
       "text": "Quelle scientifique a reçu deux Prix Nobel dans des domaines différents ?",
       "options": ["Marie Curie", "Linus Pauling", "John Bardeen"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel écrivain français a refusé le Prix Nobel de Littérature en 1964 ?",
+      "options": ["Albert Camus", "Jean-Paul Sartre", "Simone de Beauvoir"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Dans quel domaine le Prix Nobel n'est-il pas décerné ?",
+      "options": ["Mathématiques", "Chimie", "Économie"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de la paix en 2009 ?",
+      "options": ["Barack Obama", "Nelson Mandela", "Malala Yousafzai"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel scientifique a remporté le prix Nobel de physique en 1921 ?",
+      "options": ["Marie Curie", "Albert Einstein", "Niels Bohr"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui est le premier lauréat du prix Nobel de littérature ?",
+      "options": ["Frédéric Mistral", "Rudyard Kipling", "Sully Prudhomme"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel pays a le plus de lauréats du prix Nobel ?",
+      "options": ["États-Unis", "Royaume-Uni", "Allemagne"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le prix Nobel décerné pour les contributions à la médecine ?",
+      "options": ["Physique", "Chimie", "Médecine"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de littérature en 1986 ?",
+      "options": ["Gabriel García Márquez", "Toni Morrison", "Kenzaburō Ōe"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel physicien a découvert la radioactivité et a reçu deux prix Nobel ?",
+      "options": ["Marie Curie", "Max Planck", "Richard Feynman"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Malala Yousafzai en 2014 ?",
+      "options": ["Littérature", "Paix", "Médecine"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a écrit 'L'Étranger' et a reçu le prix Nobel de littérature en 1957 ?",
+      "options": ["Jean-Paul Sartre", "Albert Camus", "André Gide"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel est attribué à des personnes pour leurs contributions à la chimie ?",
+      "options": ["Physique", "Chimie", "Médecine"],
+      "correctAnswer": 1
     }
   ],
   "HISTOIRE_GEOGRAPHIE": [
@@ -167,22 +829,142 @@
       "text": "Quel est le plus long fleuve du monde ?",
       "options": ["Amazone", "Nil", "Mississippi"],
       "correctAnswer": 1
-    }
-  ],
-  "GRANDES_DECOUVERTES": [
+    },
     {
-      "text": "Qui a découvert la pénicilline ?",
-      "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie"],
+      "text": "En quelle année la Révolution française a-t-elle commencé ?",
+      "options": ["1776", "1789", "1804"],
       "correctAnswer": 1
     },
     {
-      "text": "Quelle invention a révolutionné l'imprimerie au 15e siècle ?",
-      "options": ["La presse à imprimer", "La machine à écrire", "Le stylo à bille"],
+      "text": "Quel est le plus grand désert du monde ?",
+      "options": ["Sahara", "Gobi", "Antarctique"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel événement a déclenché la Première Guerre mondiale ?",
+      "options": ["L'assassinat de François-Ferdinand", "La Révolution russe", "La déclaration de guerre de l'Allemagne"],
       "correctAnswer": 0
     },
     {
+      "text": "Quel pays a été le principal instigateur de la Révolution française ?",
+      "options": ["Royaume-Uni", "France", "Espagne"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a découvert l'Amérique en 1492 ?",
+      "options": ["Ferdinand Magellan", "Christophe Colomb", "Vasco de Gama"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel empire était dirigé par Gengis Khan ?",
+      "options": ["Empire Ottoman", "Empire Mongol", "Empire Romain"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": ["Traité de Versailles", "Traité de Trianon", "Traité de Paris"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a colonisé l'Inde pendant la période impérialiste ?",
+      "options": ["France", "Espagne", "Royaume-Uni"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel roi de France a été guillotiné pendant la Révolution française ?",
+      "options": ["Louis XVI", "Louis XIV", "Napoléon Bonaparte"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement historique est commémoré le 14 juillet en France ?",
+      "options": ["La Révolution française", "La prise de la Bastille", "La fin de la Seconde Guerre mondiale"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays est connu pour avoir instauré le système apartheid ?",
+      "options": ["Royaume-Uni", "Australie", "Afrique du Sud"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a été le premier homme à marcher sur la Lune en 1969 ?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin"],
+      "correctAnswer": 0
+    }
+  ],
+  "GRANDES_DECOUVERTES": [
+  {
       "text": "Qui est considéré comme l'inventeur du téléphone ?",
       "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle découverte majeure Charles Darwin a-t-il faite ?",
+      "options": ["La théorie de la relativité", "La théorie de l'évolution", "Les lois de la gravité"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a inventé la dynamite ?",
+      "options": ["Alfred Nobel", "Albert Einstein", "Marie Curie"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a découvert l'Amérique en 1492 ?",
+      "options": ["Christophe Colomb", "Ferdinand Magellan", "Vasco de Gama"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel explorateur a été le premier à faire le tour du monde ?",
+      "options": ["Ferdinand Magellan", "James Cook", "Hernán Cortés"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du vaisseau de Christophe Colomb ?",
+      "options": ["La Pinta", "La Santa Maria", "La Niña"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a découvert la loi de la gravitation universelle ?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel explorateur a été le premier à atteindre le pôle Sud ?",
+      "options": ["Roald Amundsen", "Robert Falcon Scott", "Ernest Shackleton"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a découvert la circulation sanguine ?",
+      "options": ["Hippocrate", "William Harvey", "Galen"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a formulé la théorie de la relativité ?",
+      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays a été le premier à envoyer un homme dans l'espace ?",
+      "options": ["États-Unis", "URSS", "Chine"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom de la première femme à recevoir un prix Nobel ?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Ada Lovelace"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel explorateur a été le premier à atteindre le sommet de l'Everest ?",
+      "options": ["Tenzing Norgay", "Edmund Hillary", "George Mallory"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a découvert l'oxygène ?",
+      "options": ["Joseph Priestley", "Antoine Lavoisier", "Robert Boyle"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a découvert le vaccin contre la variole ?",
+      "options": ["Louis Pasteur", "Edward Jenner", "Ignaz Semmelweis"],
       "correctAnswer": 1
     }
   ],
@@ -201,8 +983,69 @@
       "text": "Quel est l'antonyme de 'prolifique' ?",
       "options": ["Stérile", "Abondant", "Fécond"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la définition de 'ubiquité' ?",
+      "options": ["Rareté", "Omniprésence", "Unicité"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel mot n'appartient pas à la même famille que les autres ?",
+      "options": ["Lumineux", "Illumination", "Lunatique"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel mot est un synonyme de 'éloquent' ?",
+      "options": ["Articulé", "Banal", "Silencieux"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le contraire de 'frugal' ?",
+      "options": ["Avaricieux", "Généreux", "Dépensier"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel mot signifie 'capable de changer' ?",
+      "options": ["Rigidité", "Flexible", "Inaltérable"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le synonyme de 'récalcitrant' ?",
+      "options": ["Docile", "Obstiné", "Soumis"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel mot est un antonyme de 'émergent' ?",
+      "options": ["Flottant", "Prévalent", "Établi"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel mot signifie 'malgré tout' ?",
+      "options": ["Cependant", "Au contraire", "Néanmoins"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le synonyme de 'malin' ?",
+      "options": ["Rusé", "Naïf", "Honnête"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le contraire de 'diligent' ?",
+      "options": ["Lent", "Rapide", "Actif"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel mot désigne une personne qui aime la compagnie ?",
+      "options": ["Sociable", "Introverti", "Réservé"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le synonyme de 'perceptible' ?",
+      "options": ["Invisible", "Évident", "Indiscernable"],
+      "correctAnswer": 1
     }
   ],
+
   "GRAMMAIRE": [
     {
       "text": "Quelle est la nature du mot 'rapidement' ?",
@@ -218,6 +1061,66 @@
       "text": "Quelle est la fonction de 'belle' dans 'La belle maison' ?",
       "options": ["Épithète", "Attribut", "Complément"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le mode du verbe dans 'Qu'il vienne !' ?",
+      "options": ["Indicatif", "Subjonctif", "Impératif"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la voix de la phrase 'Le gâteau a été mangé par les enfants' ?",
+      "options": ["Active", "Passive", "Pronominale"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le temps verbal de 'J'ai mangé' ?",
+      "options": ["Passé composé", "Imparfait", "Futur simple"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle phrase est correcte ?",
+      "options": ["Il faut qu'il part", "Il faut qu'il parte", "Il faut qu'il partir"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le sujet de la phrase : 'Les enfants jouent dans le parc' ?",
+      "options": ["Les enfants", "Jouent", "Dans le parc"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'antonyme de 'facile' ?",
+      "options": ["Difficile", "Simple", "Aisé"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le pluriel de 'cheval' ?",
+      "options": ["Chevals", "Chevaux", "Chevales"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le féminin de 'acteur' ?",
+      "options": ["Actrice", "Acteuse", "Acteure"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la fonction de 'rapidement' dans la phrase : 'Il court rapidement' ?",
+      "options": ["Adjectif", "Adverbe", "Nom"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le verbe dans la phrase : 'Elle chante bien' ?",
+      "options": ["Elle", "Chante", "Bien"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le temps verbal de 'Nous avons fini' ?",
+      "options": ["Passé composé", "Futur antérieur", "Imparfait"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle phrase utilise le subjonctif ?",
+      "options": ["Il est sûr que tu viens", "Il faut que tu viennes", "Je pense que tu viens"],
+      "correctAnswer": 1
     }
   ],
   "CONJUGAISON": [
@@ -235,6 +1138,66 @@
       "text": "Quelle est la 1ère personne du singulier du verbe 'aller' au futur simple ?",
       "options": ["J'irai", "J'irais", "Je vais"],
       "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'infinitif du verbe conjugué dans 'Il faut que tu viennes' ?",
+      "options": ["Venir", "Viennir", "Viendre"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "À quel groupe appartient le verbe 'finir' ?",
+      "options": ["1er groupe", "2ème groupe", "3ème groupe"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'finir' à la première personne du singulier au présent ?",
+      "options": ["Je finis", "Je finissais", "Je finirai"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Comment conjugue-t-on le verbe 'être' au futur simple pour 'ils' ?",
+      "options": ["Ils seront", "Ils sont", "Ils étaient"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le participe passé du verbe 'prendre' ?",
+      "options": ["Prendre", "Prises", "Pris"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel temps verbal utilise-t-on dans la phrase 'Nous étions contents' ?",
+      "options": ["Passé composé", "Imparfait", "Futur simple"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'avoir' à la deuxième personne du singulier au présent ?",
+      "options": ["Tu as", "Tu avais", "Tu auras"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Comment doit-on conjuguer 'aller' à la première personne du pluriel au futur ?",
+      "options": ["Nous irons", "Nous allions", "Nous allons"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'imparfait du verbe 'manger' pour 'elle' ?",
+      "options": ["Elle mangeait", "Elle mangera", "Elle a mangé"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la conjugaison correcte du verbe 'venir' au subjonctif pour 'que je' ?",
+      "options": ["Que je vienne", "Que je viens", "Que je vin"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle forme du verbe 'faire' est utilisée dans 'Vous avez fait' ?",
+      "options": ["Passé simple", "Passé composé", "Imparfait"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Comment conjugue-t-on 'parler' au conditionnel pour 'nous' ?",
+      "options": ["Nous parlons", "Nous parlerons", "Nous parlerions"],
+      "correctAnswer": 2
     }
   ],
   "ORTHOGRAPHE": [
@@ -252,7 +1215,12 @@
       "text": "Quel est le féminin de 'époux' ?",
       "options": ["Épouse", "Épousée", "Épousesse"],
       "correctAnswer": 0
-    }
+    },
+    {
+      "text": "Quelle est la bonne orthographe ?",
+      "options": ["Parallèle", "Paralèle", "Parralèle"],
+      "correctAnswer": 0
+    },
   ],
   "LOGIQUE_MATHEMATIQUE": [
     {
