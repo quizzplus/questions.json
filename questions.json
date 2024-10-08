@@ -1220,7 +1220,7 @@
       "text": "Quelle est la bonne orthographe ?",
       "options": ["Parallèle", "Paralèle", "Parralèle"],
       "correctAnswer": 0
-    },
+    }
   ],
   "LOGIQUE_MATHEMATIQUE": [
     {
