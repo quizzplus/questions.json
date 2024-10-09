@@ -1,6 +1,6 @@
 {
   "CULTURE_GENERALE": [
-     
+
     {
       "text": "Qui a écrit 'L'Étranger' ?",
       "options": [
@@ -101,6 +101,175 @@
       "correctAnswer": 0
     },
     {
+      "text": "Quelle est la capitale politique de la Côte d'Ivoire ?",
+      "options": ["Abidjan", "Yamoussoukro", "Bouaké"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le surnom de l'équipe nationale de football de Côte d'Ivoire ?",
+      "options": ["Les Lions","Les Aigles", "Les Éléphants "],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la langue officielle de la Côte d'Ivoire ?",
+      "options": ["Français", "Baoulé", "Dioula"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le plus grand groupe ethnique de Côte d'Ivoire ?",
+      "options": ["Mandé", "Akan", "Krou"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel fleuve important traverse la Côte d'Ivoire ?",
+      "options": ["Niger", "Bandama", "Congo"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la principale religion en Côte d'Ivoire ?",
+      "options": ["Animisme", "Christianisme", "Islam"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le plat national ivoirien à base de manioc ?",
+      "options": ["Attiéké", "Foutou", "Alloco"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la plus grande ville de Côte d'Ivoire ?",
+      "options": ["Yamoussoukro", "Abidjan", "Bouaké"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom du parc national le plus célèbre de Côte d'Ivoire ?",
+      "options": ["Parc national de Taï", "Parc national de la Comoé", "Parc national du Banco"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom de la monnaie utilisée en Côte d'Ivoire ?",
+      "options": ["Franc CFA", "Euro", "Dollar ivoirien"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la date de l'indépendance de la Côte d'Ivoire ?",
+      "options": ["7 août 1950", "7 août 1960", "7 août 1970"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du plus grand port de Côte d'Ivoire ?",
+      "options": ["Port Autonome d'Abidjan", "Port de San Pedro", "Port de Sassandra"],
+      "correctAnswer": 0
+    },
+
+
+
+    {
+      "text": "Quel est le nom du plus grand lac de Côte d'Ivoire ?",
+      "options": ["Lac d'Ayamé", "Lac de Buyo", "Lac de Kossou"],
+      "correctAnswer": 2
+    },
+
+    {
+      "text": "Quel est le nom du plus grand marché d'Abidjan ?",
+      "options": ["Marché de Treichville", "Marché d'Adjamé", "Marché de Cocody"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom de la plus haute montagne de Côte d'Ivoire ?",
+      "options": ["Mont Nimba", "Mont Tonkoui", "Mont Péko"],
+      "correctAnswer": 0
+    }
+
+  ],
+  "HISTOIRE": [
+    {
+      "text": "Qui était le premier président de la Côte d'Ivoire ?",
+      "options": ["Félix Houphouët-Boigny", "Laurent Gbagbo", "Alassane Ouattara"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année la Côte d'Ivoire a-t-elle obtenu son indépendance de la France ?",
+      "options": ["1960", "1950", "1970"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le nom de la Côte d'Ivoire pendant la période coloniale ?",
+      "options": ["Côte d'Or", "Côte des Dents", "Côte d'Ivoire"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a succédé à Félix Houphouët-Boigny à la présidence en 1993 ?",
+      "options": ["Henri Konan Bédié", "Robert Guéï", "Laurent Gbagbo"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année a eu lieu le premier coup d'État en Côte d'Ivoire ?",
+      "options": ["1999", "2000", "2002"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle crise politique majeure a débuté en Côte d'Ivoire en 2002 ?",
+      "options": ["La guerre civile", "La crise du cacao", "La révolution verte"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui était le leader du mouvement indépendantiste ivoirien ?",
+      "options": ["Félix Houphouët-Boigny", "Sekou Touré", "Kwame Nkrumah"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel accord de paix a mis fin à la première guerre civile ivoirienne ?",
+      "options": ["Accord de Linas-Marcoussis", "Accord de Ouagadougou", "Accord d'Abidjan"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année Alassane Ouattara est-il devenu président de la Côte d'Ivoire ?",
+      "options": ["2010", "2011", "2012"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel était le nom du parti politique fondé par Houphouët-Boigny ?",
+      "options": ["PDCI-RDA", "FPI", "RDR"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle ville était la capitale de la Côte d'Ivoire avant Yamoussoukro ?",
+      "options": ["Abidjan", "Bouaké", "Grand-Bassam"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année Yamoussoukro est-elle devenue la capitale politique de la Côte d'Ivoire ?",
+      "options": ["1983", "1990", "2000"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel président ivoirien a fait construire la basilique Notre-Dame de la Paix ?",
+      "options": ["Félix Houphouët-Boigny", "Henri Konan Bédié", "Laurent Gbagbo"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle organisation panafricaine a été fondée à Abidjan en 1962 ?",
+      "options": ["Organisation de l'unité africaine", "Union africaine", "Conseil de l'Entente"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel événement historique a conduit à la chute de Laurent Gbagbo en 2011 ?",
+      "options": ["La crise post-électorale", "Un coup d'État militaire", "Une révolution populaire"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le surnom donné à Félix Houphouët-Boigny ?",
+      "options": ["Le Vieux", "Le Sage", "Le Lion"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année a eu lieu le référendum constitutionnel en Côte d'Ivoire ?",
+      "options": ["2018", "2016", "2020"],
+      "correctAnswer": 1
+    },
+
+
+      {
       "text": "Qui a peint 'Le Jardin des délices' ?",
       "options": [
         "Jérôme Bosch",
@@ -112,20 +281,20 @@
     {
       "text": "Quel est le nom du plus grand lac d'Afrique ?",
       "options": [
-        "Lac Victoria",
         "Lac Tanganyika",
+        "Lac Victoria",
         "Lac Malawi"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
       "text": "Quelle est la capitale du Canada ?",
       "options": [
-        "Ottawa",
+        "Montréal",
         "Toronto",
-        "Montréal"
+        "Ottawa"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     }
   ],
   "ANGLAIS": [
