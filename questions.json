@@ -1,5 +1,7 @@
 {
-   {
+  "CULTURE_GENERALE": [
+     
+    {
       "text": "Qui a écrit 'L'Étranger' ?",
       "options": [
         "Albert Camus",
@@ -237,7 +239,7 @@
     }
   ],
   "LOGIQUE": [
-   {
+    {
       "text": "Si un train voyage à 120 km/h pendant 3 heures, quelle distance parcourt-il ?",
       "options": [
         "360 km",
@@ -320,7 +322,7 @@
     }
   ],
   "SCIENCE": [
-   {
+    {
       "text": "Quelle est la couche la plus externe de l'atmosphère terrestre ?",
       "options": [
         "Exosphère",
@@ -439,7 +441,7 @@
     }
   ],
   "LITTERATURE_AFRICAINE": [
-     {
+    {
       "text": "Qui a écrit 'Le Devoir de Violence' ?",
       "options": [
         "Yambo Ouologuem",
@@ -495,7 +497,7 @@
     }
   ],
 
-"SPORT": [
+  "SPORT": [
     {
       "text": "Dans quel sport utilise-t-on un javelot ?",
       "options": ["Athlétisme", "Natation", "Cyclisme"],
@@ -572,9 +574,9 @@
       "correctAnswer": 2
     }
   ],
-  
+
   "GUERRES": [
-     {
+    {
       "text": "Qui était le leader de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
       "options": ["Joseph Staline", "Adolf Hitler", "Benito Mussolini"],
       "correctAnswer": 1
@@ -882,7 +884,7 @@
     }
   ],
   "GRANDES_DECOUVERTES": [
-  {
+    {
       "text": "Qui est considéré comme l'inventeur du téléphone ?",
       "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla"],
       "correctAnswer": 1
@@ -1212,123 +1214,123 @@
       "correctAnswer": 0
     },
     {
-    "text": "Quel est le pluriel de 'chacal' selon les règles d'orthographe classique ?",
-    "options": ["Chacals", "Chaux", "Chacaux"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Lequel de ces termes est un homonyme de 'sein' ?",
-    "options": ["Seing", "Sain", "Saint"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la conjugaison correcte du verbe 'croître' à la troisième personne du singulier au passé simple ?",
-    "options": ["Il crut", "Il croît", "Il crût"],
-    "correctAnswer": 2
-  },
-  {
-    "text": "Quel est le participe passé du verbe 'acquérir' utilisé correctement dans cette phrase : « Les compétences qu'il a ______ au fil des ans » ?",
-    "options": ["acquiert", "acquises", "acquière"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le genre du mot 'orpheline' ?",
-    "options": ["Masculin", "Féminin", "Invariable"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la forme correcte du verbe 'haïr' à la première personne du singulier au subjonctif présent ?",
-    "options": ["Que je haïsse", "Que je hais", "Que je haît"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est l'accord correct dans cette phrase : « Les fleurs _______ par le vent se fanent vite » ?",
-    "options": ["soufflées", "souffléeses", "soufflait"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la différence entre 'subodorer' et 'susurrer' ?",
-    "options": [
-      "Subodorer signifie parler doucement, susurrer signifie pressentir quelque chose",
-      "Subodorer signifie soupçonner quelque chose, susurrer signifie murmurer doucement",
-      "Les deux mots ont le même sens"
-    ],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la conjugaison correcte du verbe 'vaincre' au passé simple, troisième personne du pluriel ?",
-    "options": ["Ils vainquirent", "Ils vainquèrent", "Ils vainçurent"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Dans laquelle de ces phrases le verbe 'croire' est-il employé correctement au subjonctif imparfait ?",
-    "options": [
-      "Il fallait que je croie ce qu'il disait",
-      "Je crois qu'il ait tort",
-      "Nous craignions qu'ils crussent à ce mensonge"
-    ],
-    "correctAnswer": 2
-  },
-  {
-    "text": "Quel est le pluriel correct de 'aïeul' dans le sens de 'grand-père' ?",
-    "options": ["Aïeux", "Aïuls", "Aïeuls"],
-    "correctAnswer": 2
-  },
-  {
-    "text": "Comment accorde-t-on le participe passé du verbe 'se plaire' dans cette phrase : « Ils se sont _______ dans leur nouvelle maison » ?",
-    "options": ["plu", "plu(e)s", "plues"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le verbe correspondant à cette définition : « Donner une autorisation en échange de la promesse de respecter certaines règles » ?",
-    "options": ["Stipuler", "Soutenir", "Subordonner"],
-    "correctAnswer": 2
-  },
-  {
-    "text": "Lequel de ces termes désigne une « fausse information diffusée intentionnellement » ?",
-    "options": ["Fausseté", "Canular", "Mensonge"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la bonne utilisation de l'accord dans cette phrase : « Les élèves, tout contents, se sont ________ » ?",
-    "options": ["écriées", "écriés", "écrit"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Comment accorde-t-on 'tout' dans cette phrase : « Elles sont toutes contentes de leur résultat » ?",
-    "options": ["tout", "toutes", "toute"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le genre du mot 'interstice' ?",
-    "options": ["Masculin", "Féminin", "Les deux"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Lequel de ces mots est un synonyme de 'charnier' ?",
-    "options": ["Tombeau", "Ossuaire", "Catacombe"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la forme correcte du participe passé du verbe 'vaincre' dans cette phrase : « Les batailles qu'ils ont ______ sont mémorables » ?",
-    "options": ["vaincu", "vaincues", "vaincueses"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Comment accorde-t-on le verbe 'valoir' au conditionnel passé ?",
-    "options": ["J'aurais valu", "J'eus valu", "J'aurais valué"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la forme correcte de l'imparfait du subjonctif du verbe 'mourir' à la troisième personne du singulier ?",
-    "options": ["Il mourusse", "Il mourût", "Il mourisse"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le pluriel correct du mot 'carnaval' ?",
-    "options": ["Carnavaux", "Carnavals", "Carnavales"],
-    "correctAnswer": 1
-  }
+      "text": "Quel est le pluriel de 'chacal' selon les règles d'orthographe classique ?",
+      "options": ["Chacals", "Chaux", "Chacaux"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Lequel de ces termes est un homonyme de 'sein' ?",
+      "options": ["Seing", "Sain", "Saint"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la conjugaison correcte du verbe 'croître' à la troisième personne du singulier au passé simple ?",
+      "options": ["Il crut", "Il croît", "Il crût"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le participe passé du verbe 'acquérir' utilisé correctement dans cette phrase : « Les compétences qu'il a ______ au fil des ans » ?",
+      "options": ["acquiert", "acquises", "acquière"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le genre du mot 'orpheline' ?",
+      "options": ["Masculin", "Féminin", "Invariable"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'haïr' à la première personne du singulier au subjonctif présent ?",
+      "options": ["Que je haïsse", "Que je hais", "Que je haît"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est l'accord correct dans cette phrase : « Les fleurs _______ par le vent se fanent vite » ?",
+      "options": ["soufflées", "souffléeses", "soufflait"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la différence entre 'subodorer' et 'susurrer' ?",
+      "options": [
+        "Subodorer signifie parler doucement, susurrer signifie pressentir quelque chose",
+        "Subodorer signifie soupçonner quelque chose, susurrer signifie murmurer doucement",
+        "Les deux mots ont le même sens"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la conjugaison correcte du verbe 'vaincre' au passé simple, troisième personne du pluriel ?",
+      "options": ["Ils vainquirent", "Ils vainquèrent", "Ils vainçurent"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Dans laquelle de ces phrases le verbe 'croire' est-il employé correctement au subjonctif imparfait ?",
+      "options": [
+        "Il fallait que je croie ce qu'il disait",
+        "Je crois qu'il ait tort",
+        "Nous craignions qu'ils crussent à ce mensonge"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le pluriel correct de 'aïeul' dans le sens de 'grand-père' ?",
+      "options": ["Aïeux", "Aïuls", "Aïeuls"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Comment accorde-t-on le participe passé du verbe 'se plaire' dans cette phrase : « Ils se sont _______ dans leur nouvelle maison » ?",
+      "options": ["plu", "plu(e)s", "plues"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le verbe correspondant à cette définition : « Donner une autorisation en échange de la promesse de respecter certaines règles » ?",
+      "options": ["Stipuler", "Soutenir", "Subordonner"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Lequel de ces termes désigne une « fausse information diffusée intentionnellement » ?",
+      "options": ["Fausseté", "Canular", "Mensonge"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la bonne utilisation de l'accord dans cette phrase : « Les élèves, tout contents, se sont ________ » ?",
+      "options": ["écriées", "écriés", "écrit"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Comment accorde-t-on 'tout' dans cette phrase : « Elles sont toutes contentes de leur résultat » ?",
+      "options": ["tout", "toutes", "toute"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le genre du mot 'interstice' ?",
+      "options": ["Masculin", "Féminin", "Les deux"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Lequel de ces mots est un synonyme de 'charnier' ?",
+      "options": ["Tombeau", "Ossuaire", "Catacombe"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du participe passé du verbe 'vaincre' dans cette phrase : « Les batailles qu'ils ont ______ sont mémorables » ?",
+      "options": ["vaincu", "vaincues", "vaincueses"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Comment accorde-t-on le verbe 'valoir' au conditionnel passé ?",
+      "options": ["J'aurais valu", "J'eus valu", "J'aurais valué"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la forme correcte de l'imparfait du subjonctif du verbe 'mourir' à la troisième personne du singulier ?",
+      "options": ["Il mourusse", "Il mourût", "Il mourisse"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le pluriel correct du mot 'carnaval' ?",
+      "options": ["Carnavaux", "Carnavals", "Carnavales"],
+      "correctAnswer": 1
+    }
   ],
   "LOGIQUE_MATHEMATIQUE": [
     {
@@ -1347,239 +1349,239 @@
       "correctAnswer": 1
     },
     {
-    "text": "Quelle est la valeur de x si 2x + 3 = 11 ?",
-    "options": ["x = 4", "x = 3", "x = 2"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si un train voyage à 80 km/h pendant 2 heures, quelle distance parcourt-il ?",
-    "options": ["160 km", "180 km", "150 km"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le prochain nombre dans cette séquence : 3, 6, 9, 12, ?",
-    "options": ["15", "16", "18"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Un rectangle a une longueur de 10 cm et une largeur de 4 cm. Quelle est sa surface ?",
-    "options": ["40 cm²", "20 cm²", "60 cm²"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si Pierre a 5 pommes et qu'il en mange 2, combien lui en reste-t-il ?",
-    "options": ["3", "2", "4"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Dans un groupe de 5 personnes, combien y a-t-il de poignées de main si chaque personne serre la main de toutes les autres une seule fois ?",
-    "options": ["10", "20", "15"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la somme des angles d'un triangle ?",
-    "options": ["180°", "360°", "90°"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la racine carrée de 144 ?",
-    "options": ["12", "14", "16"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si 4x - 2 = 10, quelle est la valeur de x ?",
-    "options": ["x = 3", "x = 4", "x = 2"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le prochain nombre dans la séquence : 2, 4, 8, 16, ?",
-    "options": ["32", "24", "20"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le périmètre d'un carré de côté 5 cm ?",
-    "options": ["20 cm", "10 cm", "25 cm"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la valeur de 5² ?",
-    "options": ["25", "20", "30"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si un triangle a deux côtés de 5 cm et un angle de 90°, quel type de triangle est-ce ?",
-    "options": ["Triangle rectangle isocèle", "Triangle équilatéral", "Triangle scalène"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la valeur de pi, approximativement ?",
-    "options": ["3,14", "2,71", "1,62"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Un sac contient 3 boules rouges et 2 boules bleues. Quelle est la probabilité de tirer une boule bleue ?",
-    "options": ["2/5", "3/5", "1/5"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Si un rectangle a une surface de 30 cm² et une largeur de 5 cm, quelle est sa longueur ?",
-    "options": ["6 cm", "5 cm", "8 cm"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le résultat de l'expression : 8 + 5 - 3 ?",
-    "options": ["10", "11", "12"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la somme de 7 et 8 ?",
-    "options": ["15", "16", "17"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le produit de 6 et 7 ?",
-    "options": ["42", "36", "48"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le nombre qui suit dans cette séquence : 5, 10, 15, ?",
-    "options": ["20", "18", "25"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la valeur de 12 ÷ 3 ?",
-    "options": ["3", "4", "5"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le prochain nombre dans cette séquence : 1, 1, 2, 3, 5, 8, ?",
-    "options": ["13", "10", "12"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si x + 4 = 10, quelle est la valeur de x ?",
-    "options": ["x = 6", "x = 5", "x = 4"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Combien y a-t-il de jours dans une année non bissextile ?",
-    "options": ["365", "366", "364"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la différence entre 20 et 7 ?",
-    "options": ["13", "12", "14"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le résultat de 3³ ?",
-    "options": ["9", "27", "21"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Un angle droit mesure combien de degrés ?",
-    "options": ["90°", "45°", "180°"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si un terrain rectangulaire a une longueur de 12 m et une largeur de 5 m, quelle est sa surface ?",
-    "options": ["60 m²", "80 m²", "70 m²"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le nombre suivant dans la suite : 10, 20, 30, 40, ?",
-    "options": ["50", "60", "70"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la somme de 1, 2, et 3 ?",
-    "options": ["5", "6", "7"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le produit de 9 et 8 ?",
-    "options": ["72", "81", "60"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le résultat de 25 - 9 ?",
-    "options": ["16", "17", "18"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le prochain nombre dans la séquence : 1, 2, 3, 4, ?",
-    "options": ["5", "6", "7"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si 5x = 20, quelle est la valeur de x ?",
-    "options": ["5", "4", "3"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la valeur de 2 + 2 x 2 ?",
-    "options": ["8", "6", "4"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quelle est la somme des nombres premiers inférieurs à 10 ?",
-    "options": ["17", "18", "19"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Combien de côtés a un triangle ?",
-    "options": ["2", "3", "4"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Si une pizza est coupée en 8 parts égales et que 3 parts sont mangées, combien de parts restent ?",
-    "options": ["5", "4", "6"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le nombre suivant dans la séquence : 2, 5, 10, 17, ?",
-    "options": ["26", "18", "22"],
-    "correctAnswer": 2
-  },
-  {
-    "text": "Si x = 10 et y = 5, quelle est la valeur de x - y ?",
-    "options": ["5", "10", "15"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le résultat de 50 ÷ 5 ?",
-    "options": ["5", "10", "15"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le carré de 8 ?",
-    "options": ["64", "80", "48"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Combien de zéros y a-t-il dans 1000 ?",
-    "options": ["3", "4", "5"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Si une pièce coûte 0,25€, combien coûteront 4 pièces ?",
-    "options": ["0,75€", "1,00€", "1,25€"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quel est le produit de 3 et 9 ?",
-    "options": ["27", "36", "24"],
-    "correctAnswer": 0
-  },
-  {
-    "text": "Quelle est la valeur de 100 - 25 ÷ 5 ?",
-    "options": ["95", "90", "85"],
-    "correctAnswer": 1
-  },
-  {
-    "text": "Quel est le nombre de côtés d'un hexagone ?",
-    "options": ["6", "5", "7"],
-    "correctAnswer": 0
-  }
+      "text": "Quelle est la valeur de x si 2x + 3 = 11 ?",
+      "options": ["x = 4", "x = 3", "x = 2"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si un train voyage à 80 km/h pendant 2 heures, quelle distance parcourt-il ?",
+      "options": ["160 km", "180 km", "150 km"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le prochain nombre dans cette séquence : 3, 6, 9, 12, ?",
+      "options": ["15", "16", "18"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Un rectangle a une longueur de 10 cm et une largeur de 4 cm. Quelle est sa surface ?",
+      "options": ["40 cm²", "20 cm²", "60 cm²"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si Pierre a 5 pommes et qu'il en mange 2, combien lui en reste-t-il ?",
+      "options": ["3", "2", "4"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Dans un groupe de 5 personnes, combien y a-t-il de poignées de main si chaque personne serre la main de toutes les autres une seule fois ?",
+      "options": ["10", "20", "15"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la somme des angles d'un triangle ?",
+      "options": ["180°", "360°", "90°"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la racine carrée de 144 ?",
+      "options": ["12", "14", "16"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si 4x - 2 = 10, quelle est la valeur de x ?",
+      "options": ["x = 3", "x = 4", "x = 2"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le prochain nombre dans la séquence : 2, 4, 8, 16, ?",
+      "options": ["32", "24", "20"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le périmètre d'un carré de côté 5 cm ?",
+      "options": ["20 cm", "10 cm", "25 cm"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de 5² ?",
+      "options": ["25", "20", "30"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si un triangle a deux côtés de 5 cm et un angle de 90°, quel type de triangle est-ce ?",
+      "options": ["Triangle rectangle isocèle", "Triangle équilatéral", "Triangle scalène"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de pi, approximativement ?",
+      "options": ["3,14", "2,71", "1,62"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Un sac contient 3 boules rouges et 2 boules bleues. Quelle est la probabilité de tirer une boule bleue ?",
+      "options": ["2/5", "3/5", "1/5"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Si un rectangle a une surface de 30 cm² et une largeur de 5 cm, quelle est sa longueur ?",
+      "options": ["6 cm", "5 cm", "8 cm"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le résultat de l'expression : 8 + 5 - 3 ?",
+      "options": ["10", "11", "12"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la somme de 7 et 8 ?",
+      "options": ["15", "16", "17"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le produit de 6 et 7 ?",
+      "options": ["42", "36", "48"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nombre qui suit dans cette séquence : 5, 10, 15, ?",
+      "options": ["20", "18", "25"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de 12 ÷ 3 ?",
+      "options": ["3", "4", "5"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le prochain nombre dans cette séquence : 1, 1, 2, 3, 5, 8, ?",
+      "options": ["13", "10", "12"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si x + 4 = 10, quelle est la valeur de x ?",
+      "options": ["x = 6", "x = 5", "x = 4"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien y a-t-il de jours dans une année non bissextile ?",
+      "options": ["365", "366", "364"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la différence entre 20 et 7 ?",
+      "options": ["13", "12", "14"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le résultat de 3³ ?",
+      "options": ["9", "27", "21"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Un angle droit mesure combien de degrés ?",
+      "options": ["90°", "45°", "180°"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si un terrain rectangulaire a une longueur de 12 m et une largeur de 5 m, quelle est sa surface ?",
+      "options": ["60 m²", "80 m²", "70 m²"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nombre suivant dans la suite : 10, 20, 30, 40, ?",
+      "options": ["50", "60", "70"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la somme de 1, 2, et 3 ?",
+      "options": ["5", "6", "7"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le produit de 9 et 8 ?",
+      "options": ["72", "81", "60"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le résultat de 25 - 9 ?",
+      "options": ["16", "17", "18"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le prochain nombre dans la séquence : 1, 2, 3, 4, ?",
+      "options": ["5", "6", "7"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si 5x = 20, quelle est la valeur de x ?",
+      "options": ["5", "4", "3"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la valeur de 2 + 2 x 2 ?",
+      "options": ["8", "6", "4"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la somme des nombres premiers inférieurs à 10 ?",
+      "options": ["17", "18", "19"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de côtés a un triangle ?",
+      "options": ["2", "3", "4"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Si une pizza est coupée en 8 parts égales et que 3 parts sont mangées, combien de parts restent ?",
+      "options": ["5", "4", "6"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nombre suivant dans la séquence : 2, 5, 10, 17, ?",
+      "options": ["26", "18", "22"],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Si x = 10 et y = 5, quelle est la valeur de x - y ?",
+      "options": ["5", "10", "15"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le résultat de 50 ÷ 5 ?",
+      "options": ["5", "10", "15"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le carré de 8 ?",
+      "options": ["64", "80", "48"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de zéros y a-t-il dans 1000 ?",
+      "options": ["3", "4", "5"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si une pièce coûte 0,25€, combien coûteront 4 pièces ?",
+      "options": ["0,75€", "1,00€", "1,25€"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le produit de 3 et 9 ?",
+      "options": ["27", "36", "24"],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la valeur de 100 - 25 ÷ 5 ?",
+      "options": ["95", "90", "85"],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nombre de côtés d'un hexagone ?",
+      "options": ["6", "5", "7"],
+      "correctAnswer": 0
+    }
   ]
 }
