@@ -1,506 +1,956 @@
 {
   "CULTURE_GENERALE": [
-    {
-      "text": "Qui a peint la Joconde ?",
-      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso"],
+   {
+      "text": "Quel artiste a peint 'Guernica' ?",
+      "options": [
+        "Salvador Dalí",
+        "Pablo Picasso",
+        "Joan Miró"
+      ],
       "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la capitale du Brésil ?",
+      "options": [
+        "Rio de Janeiro",
+        "São Paulo",
+        "Brasilia"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "En quelle année a eu lieu la chute du mur de Berlin ?",
+      "options": [
+        "1989",
+        "1991",
+        "1981"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a écrit 'L'Étranger' ?",
+      "options": [
+        "Albert Camus",
+        "Jean-Paul Sartre",
+        "Simone de Beauvoir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du plus grand désert froid du monde ?",
+      "options": [
+        "Antarctique",
+        "Arctique",
+        "Groenland"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a composé 'Le Sacre du printemps' ?",
+      "options": [
+        "Igor Stravinsky",
+        "Piotr Ilitch Tchaïkovski",
+        "Sergueï Rachmaninov"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la capitale de l'Égypte ?",
+      "options": [
+        "Le Caire",
+        "Alexandrie",
+        "Gizeh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a réalisé le film '2001, l'Odyssée de l'espace' ?",
+      "options": [
+        "Stanley Kubrick",
+        "Steven Spielberg",
+        "George Lucas"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du plus long fleuve d'Asie ?",
+      "options": [
+        "Yangtsé",
+        "Huang He",
+        "Mékong"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a écrit 'Cent ans de solitude' ?",
+      "options": [
+        "Gabriel García Márquez",
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la capitale de l'Inde ?",
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Bangalore"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a peint 'La Cène' ?",
+      "options": [
+        "Léonard de Vinci",
+        "Michel-Ange",
+        "Raphaël"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom du plus haut sommet d'Amérique du Nord ?",
+      "options": [
+        "Denali",
+        "Mont Logan",
+        "Pic d'Orizaba"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Le Procès' ?",
+      "options": [
+        "Franz Kafka",
+        "Albert Camus",
+        "Fyodor Dostoevsky"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la capitale de la Chine ?",
+      "options": [
+        "Pékin",
+        "Shanghai",
+        "Hong Kong"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a réalisé le film 'Pulp Fiction' ?",
+      "options": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Lynch"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du plus grand océan de la Terre ?",
+      "options": [
+        "Pacifique",
+        "Atlantique",
+        "Indien"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'À la recherche du temps perdu' ?",
+      "options": [
+        "Marcel Proust",
+        "Victor Hugo",
+        "Émile Zola"
+      ],
+      "correctAnswer": 0
     },
     {
       "text": "Quelle est la capitale de l'Australie ?",
-      "options": ["Sydney", "Melbourne", "Canberra"],
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "En quelle année a commencé la Première Guerre mondiale ?",
-      "options": ["1914", "1918", "1939"],
+      "text": "Qui a composé 'La Traviata' ?",
+      "options": [
+        "Giuseppe Verdi",
+        "Giacomo Puccini",
+        "Richard Wagner"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom du célèbre monument situé à Sydney, en Australie ?",
+      "options": [
+        "Opéra de Sydney",
+        "Harbour Bridge",
+        "Tour de Sydney"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quel est le plus grand océan du monde ?",
-      "options": ["Atlantique", "Indien", "Pacifique"],
+      "text": "Qui a écrit 'Les Hauts de Hurlevent' ?",
+      "options": [
+        "Emily Brontë",
+        "Charlotte Brontë",
+        "Jane Austen"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Qui a écrit '1984' ?",
-      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est l'élément chimique le plus abondant dans l'univers ?",
-      "options": ["Oxygène", "Carbone", "Hydrogène"],
+      "text": "Quel est le pays le plus peuplé d'Afrique ?",
+      "options": [
+        "Nigeria",
+        "Égypte",
+        "Éthiopie"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quelle est la plus haute montagne du monde ?",
-      "options": ["K2", "Mont Blanc", "Mont Everest"],
+      "text": "Qui a peint 'Le Jardin des délices' ?",
+      "options": [
+        "Jérôme Bosch",
+        "Pieter Brueghel l'Ancien",
+        "Albrecht Dürer"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Qui a formulé la théorie de la relativité ?",
-      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking"],
+      "text": "Quel est le nom du plus grand lac d'Afrique ?",
+      "options": [
+        "Lac Victoria",
+        "Lac Tanganyika",
+        "Lac Malawi"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quel est le plus grand désert du monde ?",
-      "options": ["Sahara", "Gobi", "Antarctique"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Qui a écrit 'Les Misérables' ?",
-      "options": ["Victor Hugo", "Émile Zola", "Gustave Flaubert"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est le plus grand pays d'Afrique en termes de superficie ?",
-      "options": ["Nigeria", "Égypte", "Algérie"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Qui a peint 'La Nuit étoilée' ?",
-      "options": ["Claude Monet", "Vincent van Gogh", "Salvador Dalí"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quel est le plus long fleuve du monde ?",
-      "options": ["Amazone", "Nil", "Mississippi"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
-      "options": ["1965", "1969", "1971"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Qui a écrit 'Roméo et Juliette' ?",
-      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est le plus grand organe du corps humain ?",
-      "options": ["Foie", "Cerveau", "Peau"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Quelle est la plus grande planète du système solaire ?",
-      "options": ["Saturne", "Jupiter", "Neptune"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Qui a peint le plafond de la chapelle Sixtine ?",
-      "options": ["Raphaël", "Michel-Ange", "Léonard de Vinci"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quel est le métal le plus précieux ?",
-      "options": ["Or", "Platine", "Rhodium"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Quelle est la capitale du Japon ?",
-      "options": ["Séoul", "Pékin", "Tokyo"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Qui a découvert l'Amérique ?",
-      "options": ["Christophe Colomb", "Marco Polo", "Ferdinand Magellan"],
+      "text": "Qui a écrit 'Crime et Châtiment' ?",
+      "options": [
+        "Fyodor Dostoevsky",
+        "Léon Tolstoï",
+        "Anton Tchekhov"
+      ],
       "correctAnswer": 0
     },
     {
       "text": "Quelle est la capitale du Canada ?",
-      "options": ["Toronto", "Ottawa", "Vancouver"],
+      "options": [
+        "Ottawa",
+        "Toronto",
+        "Montréal"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui a réalisé le film 'Le Seigneur des anneaux' ?",
+      "options": [
+        "Peter Jackson",
+        "Steven Spielberg",
+        "George Lucas"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du plus haut sommet d'Amérique du Sud ?",
+      "options": [
+        "Aconcagua",
+        "Ojos del Salado",
+        "Monte Pissis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Madame Bovary' ?",
+      "options": [
+        "Gustave Flaubert",
+        "Honoré de Balzac",
+        "Émile Zola"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "En quelle année le Titanic a-t-il coulé ?",
-      "options": ["1905", "1912", "1918"],
+      "text": "Quelle est la capitale de l'Allemagne ?",
+      "options": [
+        "Berlin",
+        "Munich",
+        "Hambourg"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a composé 'Carmina Burana' ?",
+      "options": [
+        "Carl Orff",
+        "Igor Stravinsky",
+        "Gustav Holst"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du célèbre monument situé à Rome, en Italie ?",
+      "options": [
+        "Colisée",
+        "Forum Romain",
+        "Panthéon"
+      ],
       "correctAnswer": 1
     }
   ],
   "ANGLAIS": [
     {
-      "text": "What is the past tense of 'go'?",
-      "options": ["Goed", "Went", "Gone"],
+      "text": "What is the past participle of 'eat'?",
+      "options": [
+        "Eaten",
+        "Ate",
+        "Eat"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Which word is a synonym for 'happy'?",
-      "options": ["Sad", "Joyful", "Angry"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What is the opposite of 'hot'?",
-      "options": ["Warm", "Cold", "Cool"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Which is the correct spelling?",
-      "options": ["Accomodate", "Accommodate", "Acommodate"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What is the plural of 'child'?",
-      "options": ["Childs", "Childen", "Children"],
+      "text": "Which sentence is in the present perfect tense?",
+      "options": [
+        "I have finished my work.",
+        "I am finishing my work.",
+        "I will finish my work."
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Which sentence is grammatically correct?",
-      "options": ["I am going to the park", "I going to the park", "Me going to the park"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What does 'BBC' stand for?",
-      "options": ["British Broadcasting Corporation", "British Business Channel", "British Baking Company"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Which sentence uses the correct form of 'its'?",
-      "options": ["It's raining outside", "Its raining outside", "Its' raining outside"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What is the past tense of 'sing'?",
-      "options": ["Singed", "Sang", "Song"],
+      "text": "What is the plural of 'goose'?",
+      "options": [
+        "Geese",
+        "Gooses",
+        "Goose"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Which sentence is in the future tense?",
-      "options": ["I am going to the store", "I will go to the store", "I went to the store"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Which word is a verb?",
-      "options": ["Beautiful", "Walk", "Quick"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What is the meaning of the word 'benevolent'?",
-      "options": ["Kind", "Greedy", "Mean"],
+      "text": "Which word is a synonym for 'beautiful'?",
+      "options": [
+        "Gorgeous",
+        "Ugly",
+        "Plain"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "What does the suffix '-ly' typically indicate?",
-      "options": ["A noun", "An adjective", "An adverb"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Which is the correct form of 'too'?",
-      "options": ["I have too much homework", "I have to much homework", "I have two much homework"],
+      "text": "What is the opposite of 'happy'?",
+      "options": [
+        "Sad",
+        "Glad",
+        "Joyful"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "What is the superlative form of 'good'?",
-      "options": ["Gooder", "Better", "Best"],
-      "correctAnswer": 2
-    },
-    {
-      "text": "Which word is spelled correctly?",
-      "options": ["Definately", "Definitely", "Definitly"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What is the past participle of 'begin'?",
-      "options": ["Began", "Begun", "Begined"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Which sentence is in the present continuous tense?",
-      "options": ["She is eating", "She eats", "She ate"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Which word is an antonym for 'high'?",
-      "options": ["Low", "Tall", "Short"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What is the past tense of 'take'?",
-      "options": ["Took", "Taken", "Tooked"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Which word is a preposition?",
-      "options": ["Run", "On", "Beautiful"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What does 'NASA' stand for?",
-      "options": ["National Aeronautics and Space Administration", "National Astronomy and Science Agency", "New American Space Agency"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What is the meaning of the prefix 're-'?",
-      "options": ["Not", "Again", "Before"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "What is the opposite of 'good'?",
-      "options": ["Bad", "Worse", "Great"],
+      "text": "Which sentence uses the correct form of 'there/their/they're'?",
+      "options": [
+        "They're going to the store.",
+        "Their going to the store.",
+        "There going to the store."
+      ],
       "correctAnswer": 0
     },
     {
       "text": "What is the superlative form of 'bad'?",
-      "options": ["Badder", "Worst", "Worse"],
+      "options": [
+        "Worst",
+        "Worse",
+        "Badder"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Which word is an adjective?",
+      "options": [
+        "Happy",
+        "Run",
+        "Quickly"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Which word is a noun?",
-      "options": ["Happiness", "Happily", "Happy"],
+      "text": "What is the meaning of the word 'benevolent'?",
+      "options": [
+        "Kind",
+        "Evil",
+        "Greedy"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "What does the prefix 'un-' usually mean?",
+      "options": [
+        "Not",
+        "Again",
+        "Before"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "What is the past tense of 'give'?",
-      "options": ["Gived", "Gave", "Given"],
+      "text": "Which sentence is grammatically correct?",
+      "options": [
+        "I am going to school.",
+        "Me is going to school.",
+        "I going to school."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "What is the comparative form of 'happy'?",
+      "options": [
+        "Happier",
+        "Happiest",
+        "More happy"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Which word is a noun?",
+      "options": [
+        "Cat",
+        "Jump",
+        "Red"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "What is the past tense of 'think'?",
+      "options": [
+        "Thought",
+        "Thinked",
+        "Thinks"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Which word is spelled correctly?",
-      "options": ["Separetly", "Separately", "Separateley"],
+      "text": "What is the meaning of the word 'ubiquitous'?",
+      "options": [
+        "Everywhere",
+        "Rare",
+        "Unique"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Which sentence uses the correct form of 'its/it's'?",
+      "options": [
+        "It's a beautiful day.",
+        "Its a beautiful day.",
+        "Its' a beautiful day."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "What is the opposite of 'hot'?",
+      "options": [
+        "Cold",
+        "Warm",
+        "Cool"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Which is the correct tag question for 'She is coming, ___?'",
-      "options": ["is she", "isn't she", "are she"],
+      "text": "Which word is a verb?",
+      "options": [
+        "Sing",
+        "Song",
+        "Singer"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "What is the plural of 'tooth'?",
-      "options": ["Tooths", "Teeth", "Toothes"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Which sentence uses the correct form of 'their'?",
-      "options": ["Their going to the store", "They're going to the store", "There going to the store"],
-      "correctAnswer": 1
+      "text": "What is the meaning of the word 'malevolent'?",
+      "options": [
+        "Evil",
+        "Kind",
+        "Happy"
+      ],
+      "correctAnswer": 0
     }
   ],
   "LOGIQUE": [
     {
-      "text": "Combien de temps faut-il pour scier une bûche en 10 morceaux si on met 3 minutes et 8 secondes pour la scier en 5 ?",
-      "options": ["6 min 16 s", "7 min 03 s", "7 min 50 s"],
+      "text": "Complétez la suite : 2, 5, 10, 17, ...",
+      "options": [
+        "26",
+        "27",
+        "28"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Si A = 4 et B = 7, que vaut 3A - 2B ?",
+      "options": [
+        "-2",
+        "-1",
+        "0"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quelle est la vitesse en km/h d'un sprinter qui met 10s pour parcourir 100m ?",
-      "options": ["30 km/h", "36 km/h", "40 km/h"],
+      "text": "Quel est le PGCD de 18 et 45 ?",
+      "options": [
+        "3",
+        "6",
+        "9"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quelle est l'unité principale de mesure des masses ?",
-      "options": ["Kilogramme", "Gramme", "Tonne"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quelle est l'unité principale de mesure des capacités ?",
-      "options": ["Millilitre", "Litre", "Centilitre"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Combien y a-t-il de secondes dans une heure ?",
-      "options": ["3000", "3600", "6000"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quel est le PPCM de 12 et 18 ?",
-      "options": ["24", "36", "72"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Comment s'écrit 10.000 en lettres ?",
-      "options": ["Dix milles", "Dix mille", "Dix mil"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quel est le chiffre des unités du nombre 176,34 ?",
-      "options": ["4", "3", "6"],
+      "text": "Quelle est la valeur de x si 5x + 4 = 29 ?",
+      "options": [
+        "x = 5",
+        "x = 6",
+        "x = 7"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quelle est la valeur de 4992 ?",
-      "options": ["249001", "250001", "250081"],
+      "text": "Si un train voyage à 120 km/h pendant 3 heures, quelle distance parcourt-il ?",
+      "options": [
+        "360 km",
+        "380 km",
+        "400 km"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le prochain nombre dans cette séquence : 5, 11, 23, 47, ?",
+      "options": [
+        "95",
+        "96",
+        "97"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Un rectangle a une longueur de 12 cm et une largeur de 5 cm. Quelle est sa surface ?",
+      "options": [
+        "60 cm²",
+        "70 cm²",
+        "80 cm²"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Si Marie a 8 pommes et qu'elle en donne 3, combien lui en reste-t-il ?",
+      "options": [
+        "5",
+        "6",
+        "7"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quel est le résultat de 43,01 × 101 ?",
-      "options": ["4344,01", "4752,2", "4752"],
+      "text": "Dans un groupe de 6 personnes, combien y a-t-il de poignées de main si chaque personne serre la main de toutes les autres une seule fois ?",
+      "options": [
+        "15",
+        "20",
+        "25"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quelle est la valeur de 5 × 5,4 ?",
-      "options": ["27,0", "26,0", "30,4"],
-      "correctAnswer": 0
+      "text": "Quelle est la somme des angles d'un quadrilatère ?",
+      "options": [
+        "180°",
+        "360°",
+        "540°"
+      ],
+      "correctAnswer": 2
     },
     {
-      "text": "Quel est le résultat approximatif de 2932 × 512 ?",
-      "options": ["150 000", "1 500 000", "15 000"],
+      "text": "Quelle est la racine carrée de 225 ?",
+      "options": [
+        "13",
+        "14",
+        "15"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Comment s'écrit le nombre 1582 en chiffres romains ?",
-      "options": ["MDLXXXII", "MCMLXXXII", "MDCCCLXXXII"],
+      "text": "Si 3x - 5 = 16, quelle est la valeur de x ?",
+      "options": [
+        "x = 7",
+        "x = 8",
+        "x = 9"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quelle est la valeur de 36 ÷ 0,04 ?",
-      "options": ["900", "90", "9"],
+      "text": "Quel est le prochain nombre dans la séquence : 3, 7, 15, 31, ?",
+      "options": [
+        "63",
+        "64",
+        "65"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Combien de grammes de farine reste-t-il dans un sac de 1kg après avoir utilisé 100g, puis 1/3 du reste, puis 1/5 du nouveau reste ?",
-      "options": ["480g", "520g", "540g"],
-      "correctAnswer": 0
+      "text": "Quel est le périmètre d'un carré de côté 7 cm ?",
+      "options": [
+        "28 cm",
+        "35 cm",
+        "42 cm"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la valeur de 6² ?",
+      "options": [
+        "36",
+        "42",
+        "48"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Si un triangle a deux côtés de même longueur et un angle de 60°, quel type de triangle est-ce ?",
+      "options": [
+        "Triangle équilatéral",
+        "Triangle isocèle",
+        "Triangle scalène"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la valeur approximative de la racine carrée de 30 ?",
+      "options": [
+        "5,5",
+        "6,2",
+        "7,1"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Un sac contient 4 boules rouges et 3 boules bleues. Quelle est la probabilité de tirer une boule rouge ?",
+      "options": [
+        "4/7",
+        "3/7",
+        "1/7"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Si un rectangle a une surface de 48 cm² et une largeur de 6 cm, quelle est sa longueur ?",
+      "options": [
+        "8 cm",
+        "9 cm",
+        "10 cm"
+      ],
+      "correctAnswer": 1
     }
   ],
   "SCIENCE": [
     {
-      "text": "Quelle est la plus petite particule d'un élément qui conserve ses propriétés ?",
-      "options": ["Atome", "Molécule", "Électron"],
+      "text": "Quel est le nom de l'instrument utilisé pour mesurer la pression atmosphérique ?",
+      "options": [
+        "Baromètre",
+        "Thermomètre",
+        "Anémomètre"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quelle est la vitesse de la lumière ?",
-      "options": ["299 792 458 m/s", "300 000 000 m/s", "150 000 000 m/s"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est le symbole chimique de l'or ?",
-      "options": ["Au", "Ag", "Fe"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quelle planète est connue comme la planète rouge ?",
-      "options": ["Venus", "Mars", "Jupiter"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Qui a formulé la théorie de la relativité ?",
-      "options": ["Isaac Newton", "Albert Einstein", "Niels Bohr"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Quelle est la particule subatomique sans charge électrique ?",
-      "options": ["Neutron", "Proton", "Électron"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est le premier élément du tableau périodique ?",
-      "options": ["Hélium", "Lithium", "Hydrogène"],
+      "text": "Quelle est la couche la plus externe de l'atmosphère terrestre ?",
+      "options": [
+        "Exosphère",
+        "Thermosphère",
+        "Mésosphère"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quelle est la loi qui décrit la relation entre la pression et le volume d'un gaz à température constante ?",
-      "options": ["Loi de Charles", "Loi de Gay-Lussac", "Loi de Boyle-Mariotte"],
+      "text": "Quel est le nom du processus par lequel les cellules se divisent pour former deux cellules filles identiques ?",
+      "options": [
+        "Mitose",
+        "Méiose",
+        "Osmose"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le symbole chimique de l'eau ?",
+      "options": [
+        "H2O",
+        "CO2",
+        "O2"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quelle est l'unité de mesure de la résistance électrique ?",
-      "options": ["Watt", "Ohm", "Volt"],
+      "text": "Quelle planète est connue comme la \"planète rouge\" ?",
+      "options": [
+        "Mars",
+        "Vénus",
+        "Jupiter"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a formulé la loi de la gravitation universelle ?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galilée"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la particule subatomique qui a une charge positive ?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Électron"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quelle théorie explique l'expansion de l'univers à partir d'un point dense et chaud ?",
-      "options": ["Théorie de la Relativité Générale", "Théorie du Big Bang", "Théorie des Cordes"],
+      "text": "Quel est le nom du processus par lequel les plantes convertissent la lumière solaire en énergie chimique ?",
+      "options": [
+        "Photosynthèse",
+        "Respiration",
+        "Fermentation"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quel physicien est connu pour ses travaux sur l'électromagnétisme ?",
-      "options": ["Michael Faraday", "Albert Einstein", "James Clerk Maxwell"],
+      "text": "Quel est le nom de l'unité de mesure de la force ?",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quel est l'isotope radioactif couramment utilisé pour dater des objets biologiques ?",
-      "options": ["Carbone-14", "Potassium-40", "Uranium-238"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quelle est la force responsable du maintien des protons et des neutrons dans le noyau atomique ?",
-      "options": ["Force nucléaire forte", "Force électromagnétique", "Force nucléaire faible"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel est l'acide nucléique qui code l'information génétique ?",
-      "options": ["Protéine", "ADN", "ARN"],
+      "text": "Quel est le nom de l'élément le plus abondant dans l'univers ?",
+      "options": [
+        "Hydrogène",
+        "Hélium",
+        "Oxygène"
+      ],
       "correctAnswer": 1
     },
     {
-      "text": "Quel phénomène se produit lorsque la lumière change de direction en passant d'un milieu à un autre ?",
-      "options": ["Réflexion", "Réfraction", "Diffraction"],
+      "text": "Quelle est la vitesse approximative du son dans l'air ?",
+      "options": [
+        "340 m/s",
+        "1500 m/s",
+        "300 000 000 m/s"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a découvert la pénicilline ?",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Marie Curie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom de la force qui s'oppose au mouvement d'un objet ?",
+      "options": [
+        "Frottement",
+        "Gravité",
+        "Accélération"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom du processus par lequel l'eau passe de l'état liquide à l'état gazeux ?",
+      "options": [
+        "Évaporation",
+        "Condensation",
+        "Sublimation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom de l'instrument utilisé pour mesurer la température ?",
+      "options": [
+        "Thermomètre",
+        "Baromètre",
+        "Hygromètre"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle est la charge électrique d'un électron ?",
+      "options": [
+        "Négative",
+        "Positive",
+        "Neutre"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du processus par lequel les organismes vivants produisent de l'énergie à partir de nutriments ?",
+      "options": [
+        "Respiration cellulaire",
+        "Photosynthèse",
+        "Digestion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom de l'unité de mesure de l'énergie ?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom de la science qui étudie les plantes ?",
+      "options": [
+        "Botanique",
+        "Zoologie",
+        "Géologie"
+      ],
       "correctAnswer": 1
     }
   ],
   "LITTERATURE_AFRICAINE": [
      {
-      "text": "Qui a écrit 'Une si longue lettre' ?",
-      "options": ["Mariama Bâ", "Aminata Sow Fall", "Fatou Diome"],
+      "text": "Qui a écrit le roman 'Les Soleils des Indépendances' ?",
+      "options": [
+        "Ahmadou Kourouma",
+        "Ferdinand Oyono",
+        "Cheikh Hamidou Kane"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quel auteur ivoirien a écrit 'Les soleils des indépendances' ?",
-      "options": ["Ahmadou Kourouma", "Bernard Dadié", "Véronique Tadjo"],
+      "text": "Quel auteur ivoirien a écrit 'Climbié' ?",
+      "options": [
+        "Bernard Dadié",
+        "Ahmadou Kourouma",
+        "Ferdinand Oyono"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Qui est l'auteur de 'L'Aventure ambiguë' ?",
-      "options": ["Cheikh Hamidou Kane", "Léopold Sédar Senghor", "Birago Diop"],
+      "text": "Qui est l'auteur de 'Le Devoir de Violence' ?",
+      "options": [
+        "Yambo Ouologuem",
+        "Mongo Beti",
+        "Ahmadou Kourouma"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel roman de Camara Laye est une autobiographie ?",
+      "options": [
+        "L'Enfant noir",
+        "Le Regard du roi",
+        "Dramouss"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Quel écrivain nigérian a écrit 'Le monde s'effondre' ?",
-      "options": ["Chinua Achebe", "Wole Soyinka", "Ben Okri"],
+      "text": "Qui a écrit 'La Grève des bàttu' ?",
+      "options": [
+        "Aminata Sow Fall",
+        "Mariama Bâ",
+        "Fatou Diome"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Qui a écrit 'Gouverneurs de la rosée' ?",
-      "options": ["Jacques Roumain", "René Depestre", "Dany Laferrière"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Quel poète sénégalais est l'auteur de 'Chants d'ombre' ?",
-      "options": ["Léopold Sédar Senghor", "Léon Damas", "Aimé Césaire"],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Qui a écrit 'Les boeufs de la plaine' ?",
-      "options": ["Ahmadou Kourouma", "Léon Damas", "Ousmane Sembène"],
+      "text": "Quel auteur ivoirien est connu pour ses pièces de théâtre engagées ?",
+      "options": [
+        "Amadou Koné",
+        "Bernard Zadi Zaourou",
+        "Tchicaya U Tam'si"
+      ],
       "correctAnswer": 2
     },
     {
-      "text": "Quel écrivain sud-africain a reçu le prix Nobel de littérature en 1991 ?",
-      "options": ["J.M. Coetzee", "Nadine Gordimer", "Zadie Smith"],
+      "text": "Qui a écrit 'Une si longue lettre' ?",
+      "options": [
+        "Mariama Bâ",
+        "Aminata Sow Fall",
+        "Fatou Diome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel roman de Fatou Diome explore le thème de l'immigration ?",
+      "options": [
+        "Le Ventre de l'Atlantique",
+        "Les Loups de l'Atlantique",
+        "Celui qui savait"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Qui est l'auteur de 'Allah n'est pas obligé' ?",
+      "options": [
+        "Ahmadou Kourouma",
+        "Yambo Ouologuem",
+        "Mongo Beti"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Qui a écrit 'Le temps des miracles' ?",
-      "options": ["Céline Minard", "Aminata Sow Fall", "Marie NDiaye"],
-      "correctAnswer": 1
+      "text": "Quel roman de Véronique Tadjo aborde le génocide rwandais ?",
+      "options": [
+        "L'Ombre d'Imana",
+        "Reine Pokou",
+        "Le Seigneur des anneaux"
+      ],
+      "correctAnswer": 2
     },
     {
-      "text": "Quel est le titre du roman de Chimamanda Ngozi Adichie qui traite de l'immigration ?",
-      "options": ["Americanah", "Half of a Yellow Sun", "Purple Hibiscus"],
+      "text": "Qui a écrit 'Sous l'orage' ?",
+      "options": [
+        "Seydou Badian Kouyaté",
+        "Amadou Hampâté Bâ",
+        "Cheikh Hamidou Kane"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Qui est l'auteur de 'Une femme' ?",
-      "options": ["Marie NDiaye", "Mya-Rose Craig", "Fatou Diome"],
-      "correctAnswer": 1
+      "text": "Quel auteur ivoirien a écrit 'Le Pagne noir' ?",
+      "options": [
+        "Bernard Dadié",
+        "Ahmadou Kourouma",
+        "Ferdinand Oyono"
+      ],
+      "correctAnswer": 2
     },
     {
-      "text": "Quel écrivain algérien a écrit 'L'Étranger' ?",
-      "options": ["Albert Camus", "Assia Djebar", "Mohamed Dib"],
+      "text": "Qui est l'auteur de 'L'Aventure ambiguë' ?",
+      "options": [
+        "Cheikh Hamidou Kane",
+        "Léopold Sédar Senghor",
+        "Birago Diop"
+      ],
       "correctAnswer": 0
     },
     {
-      "text": "Qui a écrit 'Le ventre de l'Atlantique' ?",
-      "options": ["Fatou Diome", "Khaled Hosseini", "Mariama Bâ"],
-      "correctAnswer": 0
+      "text": "Quel roman de Tierno Monénembo dénonce la dictature en Guinée ?",
+      "options": [
+        "Le Roi de Kahel",
+        "Un rêve utile",
+        "L'Autre rive"
+      ],
+      "correctAnswer": 2
     },
     {
-      "text": "Quel poète togolais a écrit 'Les yeux du cœur' ?",
-      "options": ["Paul Éluard", "Tchicaya U Tam'si", "Léopold Sédar Senghor"],
-      "correctAnswer": 1
-    },
-    {
-      "text": "Qui est l'auteur de 'La noya' ?",
-      "options": ["Ken Bugul", "Ngũgĩ wa Thiong'o", "Wole Soyinka"],
+      "text": "Qui a écrit 'Le Monde s'effondre' ?",
+      "options": [
+        "Chinua Achebe",
+        "Wole Soyinka",
+        "Ngugi wa Thiong'o"
+      ],
       "correctAnswer": 0
     }
   ],
