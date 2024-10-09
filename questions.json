@@ -3018,97 +3018,239 @@
   ],
   "ANGLAIS": [
     {
-      "text": "What is the past participle of 'eat'?",
+      "text": "Quel est le pluriel du mot 'child' ?",
       "options": [
-        "Eaten",
-        "Ate",
-        "Eat"
+        "Childs",
+        "Children",
+        "Childer"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'to be' au passé pour 'he' ?",
+      "options": [
+        "Was",
+        "Were",
+        "Be"
       ],
       "correctAnswer": 0
     },
     {
-      "text": "Which sentence is in the present perfect tense?",
+      "text": "Quel mot complète la phrase : 'She _____ to the store yesterday.' ?",
       "options": [
-        "I have finished my work.",
-        "I am finishing my work.",
-        "I will finish my work."
+        "Go",
+        "Goes",
+        "Went"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 2
     },
     {
-      "text": "What is the plural of 'goose'?",
+      "text": "Quelle est la traduction du mot 'chien' en anglais ?",
       "options": [
-        "Geese",
-        "Gooses",
-        "Goose"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What is the superlative form of 'bad'?",
-      "options": [
-        "Worst",
-        "Worse",
-        "Badder"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Which word is an adjective?",
-      "options": [
-        "Happy",
-        "Run",
-        "Quickly"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "text": "What is the meaning of the word 'benevolent'?",
-      "options": [
-        "Kind",
-        "Evil",
-        "Greedy"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "text": "Which word is a noun?",
-      "options": [
+        "Dog",
         "Cat",
-        "Jump",
-        "Red"
+        "Bird"
       ],
       "correctAnswer": 0
     },
     {
-      "text": "What is the past tense of 'think'?",
+      "text": "Quelle est la bonne forme de 'have' pour 'I' au présent ?",
       "options": [
-        "Thought",
-        "Thinked",
-        "Thinks"
+        "Has",
+        "Have",
+        "Haves"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
-      "text": "What is the meaning of the word 'ubiquitous'?",
+      "text": "Comment dit-on 'merci' en anglais ?",
       "options": [
-        "Everywhere",
-        "Rare",
-        "Unique"
+        "Thank you",
+        "Please",
+        "Hello"
       ],
       "correctAnswer": 0
     },
     {
-      "text": "Which sentence uses the correct form of 'its/it's'?",
+      "text": "Quel est le superlatif de 'big' ?",
       "options": [
-        "It's a beautiful day.",
-        "Its a beautiful day.",
-        "Its' a beautiful day."
+        "Bigger",
+        "Most big",
+        "Biggest"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel mot signifie 'maison' en anglais ?",
+      "options": [
+        "Home",
+        "House",
+        "Flat"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte de 'to do' pour 'they' au passé ?",
+      "options": [
+        "Did",
+        "Done",
+        "Do"
       ],
       "correctAnswer": 0
     },
     {
-      "text": "What is the opposite of 'hot'?",
+      "text": "Quel est le mot opposé de 'happy' ?",
+      "options": [
+        "Sad",
+        "Angry",
+        "Excited"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quelle est la traduction du mot 'voiture' en anglais ?",
+      "options": [
+        "Bicycle",
+        "Car",
+        "Truck"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le futur simple de 'to eat' pour 'he' ?",
+      "options": [
+        "Eats",
+        "Will eat",
+        "Ate"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel mot complète la phrase : 'I _____ going to the party tonight.' ?",
+      "options": [
+        "Am",
+        "Is",
+        "Are"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le comparatif de 'good' ?",
+      "options": [
+        "Better",
+        "Gooder",
+        "More good"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la forme correcte de 'to be' pour 'they' au présent ?",
+      "options": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le participe passé de 'to write' ?",
+      "options": [
+        "Wrote",
+        "Written",
+        "Write"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le mot anglais pour 'arbre' ?",
+      "options": [
+        "Tree",
+        "Plant",
+        "Bush"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la traduction de 'Bonjour' en anglais ?",
+      "options": [
+        "Hello",
+        "Goodbye",
+        "Thank you"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le pluriel de 'foot' ?",
+      "options": [
+        "Foots",
+        "Feet",
+        "Feets"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'to be' au futur pour 'she' ?",
+      "options": [
+        "Will be",
+        "Is",
+        "Was"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel est le synonyme de 'happy' ?",
+      "options": [
+        "Sad",
+        "Joyful",
+        "Angry"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le mot anglais pour 'chaise' ?",
+      "options": [
+        "Table",
+        "Chair",
+        "Sofa"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte de 'to have' pour 'he' au passé ?",
+      "options": [
+        "Had",
+        "Has",
+        "Have"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le superlatif de 'small' ?",
+      "options": [
+        "Smaller",
+        "Smallest",
+        "Most small"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le mot anglais pour 'montagne' ?",
+      "options": [
+        "Mountain",
+        "Hill",
+        "Valley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la bonne conjugaison de 'to go' pour 'we' au présent ?",
+      "options": [
+        "Go",
+        "Goes",
+        "Going"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le mot opposé de 'hot' ?",
       "options": [
         "Cold",
         "Warm",
@@ -3117,11 +3259,118 @@
       "correctAnswer": 0
     },
     {
-      "text": "Which word is a verb?",
+      "text": "Quelle est la traduction de 'au revoir' en anglais ?",
       "options": [
-        "Sing",
-        "Song",
-        "Singer"
+        "Goodbye",
+        "Hello",
+        "See you"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le pluriel de 'mouse' ?",
+      "options": [
+        "Mice",
+        "Mouses",
+        "Mices"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le participe passé de 'to see' ?",
+      "options": [
+        "Saw",
+        "Seen",
+        "See"
+      ],
+      "correctAnswer": 1
+    },{
+      "text": "Quel mot complète la phrase : 'They _____ playing soccer now.' ?",
+      "options": [
+        "Is",
+        "Are",
+        "Was"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la forme correcte du verbe 'to do' au présent pour 'she' ?",
+      "options": [
+        "Does",
+        "Do",
+        "Doing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le synonyme de 'angry' ?",
+      "options": [
+        "Happy",
+        "Furious",
+        "Calm"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le mot anglais pour 'pain' ?",
+      "options": [
+        "Bread",
+        "Food",
+        "Pain"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le futur simple de 'to go' pour 'I' ?",
+      "options": [
+        "Will go",
+        "Goes",
+        "Go"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la forme correcte de 'to eat' pour 'they' au présent ?",
+      "options": [
+        "Eats",
+        "Eat",
+        "Eating"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le mot anglais pour 'livre' ?",
+      "options": [
+        "Book",
+        "Magazine",
+        "Novel"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le pluriel de 'baby' ?",
+      "options": [
+        "Babies",
+        "Babys",
+        "Babyes"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le comparatif de 'bad' ?",
+      "options": [
+        "Worse",
+        "Badder",
+        "More bad"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la traduction du mot 'école' en anglais ?",
+      "options": [
+        "School",
+        "Class",
+        "University"
       ],
       "correctAnswer": 0
     }
@@ -3730,6 +3979,452 @@
       "correctAnswer": 1
     },
     {
+      "text": "Quelle guerre a eu lieu de 1914 à 1918 ?",
+      "options": [
+        "Guerre de Corée",
+        "Première Guerre mondiale",
+        "Guerre du Vietnam"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui était le leader de l'Union soviétique pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Staline",
+        "Lénine",
+        "Khrushchev"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle bataille est souvent considérée comme le tournant du front est pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Bataille de Stalingrad",
+        "Bataille de Normandie",
+        "Bataille de Waterloo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement a déclenché la Première Guerre mondiale ?",
+      "options": [
+        "L'assassinat de l'archiduc François-Ferdinand",
+        "L'attaque de Pearl Harbor",
+        "L'invasion de la Pologne"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel traité a mis fin à la Première Guerre mondiale ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Paris",
+        "Traité de Trianon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle guerre a opposé le Nord et le Sud des États-Unis ?",
+      "options": [
+        "Guerre de Sécession",
+        "Guerre d'Indépendance",
+        "Guerre de 1812"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "En quelle année a eu lieu la guerre du Vietnam ?",
+      "options": [
+        "1955-1975",
+        "1960-1970",
+        "1970-1980"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle bataille a eu lieu en 1066 et a conduit à la conquête normande de l'Angleterre ?",
+      "options": [
+        "Bataille de Hastings",
+        "Bataille de Waterloo",
+        "Bataille de Bosworth"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été envahi par l'Allemagne en 1939, déclenchant la Seconde Guerre mondiale ?",
+      "options": [
+        "France",
+        "Pologne",
+        "Tchécoslovaquie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel était le nom de la stratégie militaire allemande durant la Seconde Guerre mondiale ?",
+      "options": [
+        "Blitzkrieg",
+        "Trench Warfare",
+        "Total War"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel pays a été impliqué dans la guerre des Malouines en 1982 ?",
+      "options": [
+        "Argentine",
+        "Royaume-Uni",
+        "France"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui était le président des États-Unis pendant la guerre du Vietnam ?",
+      "options": [
+        "Lyndon B. Johnson",
+        "John F. Kennedy",
+        "Richard Nixon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le principal objectif de la guerre froide ?",
+      "options": [
+        "Expansion du communisme",
+        "Domination de l'Europe",
+        "Lutte contre le fascisme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle guerre a eu lieu entre 1936 et 1939 en Espagne ?",
+      "options": [
+        "Guerre d'Espagne",
+        "Guerre civile espagnole",
+        "Guerre mondiale"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle bataille décisive a eu lieu en 1815 et a mis fin aux guerres napoléoniennes ?",
+      "options": [
+        "Bataille de Waterloo",
+        "Bataille de Leipzig",
+        "Bataille d'Austerlitz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel conflit a été surnommé 'la guerre contre le terrorisme' ?",
+      "options": [
+        "Guerre d'Irak",
+        "Guerre de 2001 en Afghanistan",
+        "Guerre de Libye"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays a été le principal adversaire des États-Unis pendant la guerre de Corée ?",
+      "options": [
+        "Chine",
+        "Corée du Sud",
+        "Corée du Nord"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle bataille a marqué le début de la guerre d'Indépendance américaine en 1775 ?",
+      "options": [
+        "Bataille de Bunker Hill",
+        "Bataille de Lexington et Concord",
+        "Bataille de Yorktown"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel conflit a opposé la France et le Royaume-Uni aux colonies américaines entre 1775 et 1783 ?",
+      "options": [
+        "Guerre d'Indépendance",
+        "Guerre de Sept Ans",
+        "Guerre de 1812"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel était le nom de l'opération militaire qui a mené à l'invasion de l'Irak en 2003 ?",
+      "options": [
+        "Operation Desert Storm",
+        "Operation Iraqi Freedom",
+        "Operation Enduring Freedom"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle guerre a été marquée par l'utilisation de gaz toxiques pour la première fois ?",
+      "options": [
+        "Première Guerre mondiale",
+        "Guerre du Vietnam",
+        "Guerre de 1812"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel général américain a dirigé les forces alliées lors du débarquement de Normandie ?",
+      "options": [
+        "Dwight D. Eisenhower",
+        "George Patton",
+        "Omar Bradley"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été impliqué dans la guerre d'Indochine entre 1946 et 1954 ?",
+      "options": [
+        "France",
+        "États-Unis",
+        "Chine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement a eu lieu le 11 septembre 2001 et a déclenché la guerre en Afghanistan ?",
+      "options": [
+        "Attentats terroristes",
+        "Guerre en Irak",
+        "Guerre froide"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle bataille a été le tournant de la guerre de Sécession en 1863 ?",
+      "options": [
+        "Bataille de Gettysburg",
+        "Bataille d'Antietam",
+        "Bataille de Bull Run"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été le principal allié des États-Unis pendant la Première Guerre mondiale ?",
+      "options": [
+        "Royaume-Uni",
+        "France",
+        "Allemagne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui était le président des États-Unis pendant la guerre civile américaine ?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle était la principale cause de la guerre de 1812 ?",
+      "options": [
+        "Expansion territoriale",
+        "Piratage des navires",
+        "Esclavage"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel était le nom de la guerre qui a eu lieu entre 1955 et 1975 en Asie du Sud-Est ?",
+      "options": [
+        "Guerre du Vietnam",
+        "Guerre d'Indochine",
+        "Guerre de Corée"
+      ],
+      "correctAnswer": 0
+    }, {
+      "text": "Quel événement a conduit à la guerre de 30 ans en Europe au XVIIe siècle ?",
+      "options": [
+        "Conflits religieux",
+        "Guerres de succession",
+        "Rivalités économiques"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle bataille a marqué la fin de la guerre du Vietnam ?",
+      "options": [
+        "Bataille de Dien Bien Phu",
+        "Chute de Saïgon",
+        "Bataille de Khe Sanh"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel pays a annexé la Crimée en 2014, provoquant des tensions internationales ?",
+      "options": [
+        "Ukraine",
+        "Russie",
+        "Estonie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel conflit a eu lieu entre 1991 et 2001 en ex-Yougoslavie ?",
+      "options": [
+        "Guerre de Bosnie",
+        "Guerre froide",
+        "Guerre du Golfe"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui était le dirigeant de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Adolf Hitler",
+        "Benito Mussolini",
+        "Joseph Staline"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le nom de la campagne militaire alliée pour reprendre l'Europe occupée pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Opération Overlord",
+        "Opération Market Garden",
+        "Opération Barbarossa"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel conflit a opposé l'Éthiopie à l'Italie dans les années 1930 ?",
+      "options": [
+        "Guerre italo-éthiopienne",
+        "Guerre de Crimée",
+        "Guerre d'indépendance"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel traité a mis fin à la Seconde Guerre mondiale en Europe ?",
+      "options": [
+        "Traité de Versailles",
+        "Traité de Paris",
+        "Acte de capitulation de la Wehrmacht"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quelle était la principale puissance d'axe pendant la Seconde Guerre mondiale ?",
+      "options": [
+        "Allemagne",
+        "Royaume-Uni",
+        "Union soviétique"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement a été déclenché par l'attaque de Pearl Harbor ?",
+      "options": [
+        "Entrée des États-Unis dans la Seconde Guerre mondiale",
+        "Guerre du Vietnam",
+        "Guerre d'Irak"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel pays a été divisé en deux par le 38e parallèle après la guerre de Corée ?",
+      "options": [
+        "Vietnam",
+        "Corée",
+        "Allemagne"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel événement a conduit à la guerre d'Algérie en 1954 ?",
+      "options": [
+        "Lutte pour l'indépendance",
+        "Révolution industrielle",
+        "Guerre froide"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a été le leader des forces communistes en Chine pendant la guerre civile chinoise ?",
+      "options": [
+        "Chiang Kai-shek",
+        "Mao Zedong",
+        "Sun Yat-sen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel événement a marqué le début de la guerre du Golfe en 1990 ?",
+      "options": [
+        "Invasion du Koweït par l'Irak",
+        "Attentats du 11 septembre",
+        "Guerre civile en Syrie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le principal objectif de l'OTAN pendant la guerre froide ?",
+      "options": [
+        "Contenir le communisme",
+        "Promouvoir le socialisme",
+        "Établir des relations diplomatiques"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel traité a été signé en 1992 pour mettre fin à la guerre entre la Bosnie et les Serbes ?",
+      "options": [
+        "Accord de Dayton",
+        "Traité de Paris",
+        "Accord de Trianon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a été l'initiateur de l'invasion de l'Afghanistan en 1979 ?",
+      "options": [
+        "Union soviétique",
+        "États-Unis",
+        "Pakistan"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel événement a eu lieu en 1941, marquant le début de l'invasion allemande de l'Union soviétique ?",
+      "options": [
+        "Opération Barbarossa",
+        "Opération Market Garden",
+        "Opération Overlord"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a écrit 'Les Misérables', un roman sur la guerre et la révolution en France ?",
+      "options": [
+        "Victor Hugo",
+        "Émile Zola",
+        "Gustave Flaubert"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel était le nom de la stratégie militaire des États-Unis au Vietnam ?",
+      "options": [
+        "Guerre totale",
+        "Guerre limitée",
+        "Guerre de guérilla"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel traité a mis fin à la guerre de 1812 entre les États-Unis et le Royaume-Uni ?",
+      "options": [
+        "Traité de Paris",
+        "Traité de Ghent",
+        "Traité de Versailles"
+      ],
+      "correctAnswer": 1
+    },
+    {
       "text": "Quelle bataille est considérée comme le tournant de la Seconde Guerre mondiale sur le front de l'Est ?",
       "options": ["Bataille de Stalingrad", "Bataille de Moscou", "Bataille de Koursk"],
       "correctAnswer": 0
@@ -3805,11 +4500,367 @@
       "text": "Combien d'os y a-t-il dans le corps humain adulte ?",
       "options": ["206", "180", "230"],
       "correctAnswer": 0
+    },{
+      "text": "Quelle est la plus grande organ du corps humain ?",
+      "options": [
+        "Le foie",
+        "La peau",
+        "Le cœur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Combien d'os compose le squelette humain adulte ?",
+      "options": [
+        "206",
+        "208",
+        "210"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel organe est responsable de la filtration du sang ?",
+      "options": [
+        "Le poumon",
+        "Le rein",
+        "Le cœur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le plus petit os du corps humain ?",
+      "options": [
+        "L'étrier",
+        "Le fémur",
+        "Le tibia"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le rôle principal des globules rouges ?",
+      "options": [
+        "Transporter l'oxygène",
+        "Lutter contre les infections",
+        "Produire des anticorps"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel muscle est responsable de la contraction du cœur ?",
+      "options": [
+        "Le diaphragme",
+        "Le myocarde",
+        "Le biceps"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le principal composant du sang ?",
+      "options": [
+        "Les globules blancs",
+        "Le plasma",
+        "Les plaquettes"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel organe est responsable de la digestion des aliments ?",
+      "options": [
+        "L'estomac",
+        "Le cœur",
+        "Le poumon"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Combien de dents a un adulte en moyenne ?",
+      "options": [
+        "32",
+        "28",
+        "30"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel système du corps humain est responsable de la réponse immunitaire ?",
+      "options": [
+        "Le système nerveux",
+        "Le système circulatoire",
+        "Le système immunitaire"
+      ],
+      "correctAnswer": 2
     },
     {
       "text": "Quel est l'organe le plus grand du corps humain ?",
       "options": ["Foie", "Cerveau", "Peau"],
       "correctAnswer": 2
+    },{
+      "text": "Quelle partie de l'œil est responsable de la couleur des yeux ?",
+      "options": [
+        "La rétine",
+        "L'iris",
+        "Le cristallin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle hormone est principalement responsable de la régulation du métabolisme ?",
+      "options": [
+        "Insuline",
+        "Thyroxine",
+        "Adrénaline"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel organe produit de l'insuline ?",
+      "options": [
+        "Le foie",
+        "Le pancréas",
+        "Les reins"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la fonction des neurones ?",
+      "options": [
+        "Transporter le sang",
+        "Transmettre des signaux nerveux",
+        "Produire des hormones"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le plus grand muscle du corps humain ?",
+      "options": [
+        "Le grand fessier",
+        "Le biceps",
+        "Le quadriceps"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le rôle des plaquettes dans le sang ?",
+      "options": [
+        "Transporter l'oxygène",
+        "Coaguler le sang",
+        "Lutter contre les infections"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le principal organe de la respiration ?",
+      "options": [
+        "Les poumons",
+        "Le cœur",
+        "Le diaphragme"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le rôle de la moelle épinière ?",
+      "options": [
+        "Transmettre des signaux entre le cerveau et le corps",
+        "Produire des hormones",
+        "Filtrer le sang"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel organe est responsable de la régulation de la température corporelle ?",
+      "options": [
+        "Le cerveau",
+        "Le foie",
+        "La peau"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la durée moyenne de vie d'un globule rouge ?",
+      "options": [
+        "120 jours",
+        "90 jours",
+        "60 jours"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel est le nom de la substance qui donne sa couleur à la peau ?",
+      "options": [
+        "Kératine",
+        "Mélanine",
+        "Collagène"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel organe est impliqué dans la production de bile ?",
+      "options": [
+        "Le pancréas",
+        "Le foie",
+        "L'estomac"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le rôle principal des globules blancs ?",
+      "options": [
+        "Transporter l'oxygène",
+        "Lutter contre les infections",
+        "Coaguler le sang"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle partie du cerveau est responsable de la mémoire ?",
+      "options": [
+        "Le cervelet",
+        "Le cortex",
+        "L'hippocampe"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel type de jointure permet le mouvement dans plusieurs directions ?",
+      "options": [
+        "Articulation pivot",
+        "Articulation sphéroïde",
+        "Articulation fixe"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le rôle du système lymphatique ?",
+      "options": [
+        "Réguler la température",
+        "Transporter les nutriments",
+        "Éliminer les déchets et lutter contre les infections"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Combien de muscles sont nécessaires pour sourire ?",
+      "options": [
+        "5",
+        "10",
+        "12"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le principal élément constitutif des cheveux ?",
+      "options": [
+        "Kératine",
+        "Collagène",
+        "Elastine"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Quel est le nom du plus grand vaisseau sanguin du corps ?",
+      "options": [
+        "Aorte",
+        "Veine cave",
+        "Artère pulmonaire"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la principale fonction des reins ?",
+      "options": [
+        "Produire des hormones",
+        "Filtrer le sang et excréter les déchets",
+        "Réguler la température"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel organe est responsable de l'équilibre dans le corps ?",
+      "options": [
+        "Les yeux",
+        "L'oreille interne",
+        "Le cerveau"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le rôle principal de l'adrénaline dans le corps ?",
+      "options": [
+        "Réguler le sommeil",
+        "Préparer le corps à une réponse de combat ou de fuite",
+        "Contrôler la digestion"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la principale fonction des os ?",
+      "options": [
+        "Produire des globules rouges",
+        "Protéger les organes internes",
+        "Stocker des graisses"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le nom du liquide qui lubrifie les articulations ?",
+      "options": [
+        "Synovie",
+        "Bile",
+        "Plasma"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel organe du corps humain a la capacité de se régénérer ?",
+      "options": [
+        "Le cœur",
+        "Le foie",
+        "Les poumons"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quelle est la fonction de la thyroïde ?",
+      "options": [
+        "Réguler le métabolisme",
+        "Produire des globules rouges",
+        "Contrôler la digestion"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le nom du tissu qui relie les muscles aux os ?",
+      "options": [
+        "Tendon",
+        "Ligament",
+        "Cartilage"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quelle est la durée de vie moyenne d'un neurone ?",
+      "options": [
+        "Quelques jours",
+        "Des années",
+        "Indéfinie"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel est le nom de la partie de l'œil qui régule la quantité de lumière entrant dans l'œil ?",
+      "options": [
+        "La rétine",
+        "L'iris",
+        "Le cristallin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel est le rôle principal du système digestif ?",
+      "options": [
+        "Absorber les nutriments",
+        "Lutter contre les infections",
+        "Produire des hormones"
+      ],
+      "correctAnswer": 0
     },
     {
       "text": "Quelle est la fonction principale des globules rouges ?",
@@ -3881,6 +4932,451 @@
     {
       "text": "Qui a reçu le premier Prix Nobel de la Paix ?",
       "options": ["Henry Dunant", "Frédéric Passy", "Théodore Roosevelt"],
+      "correctAnswer": 0
+    },{
+      "text": "Qui a été le premier lauréat du prix Nobel de la paix en 1901 ?",
+      "options": [
+        "Henry Dunant",
+        "Frédéric Passy",
+        "Albert Schweitzer"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Pour quel domaine le prix Nobel est-il attribué chaque année ?",
+      "options": [
+        "Littérature",
+        "Économie",
+        "Les deux"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel scientifique a reçu le prix Nobel de physique en 1921 pour sa découverte de l'effet photoélectrique ?",
+      "options": [
+        "Niels Bohr",
+        "Albert Einstein",
+        "Marie Curie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Malala Yousafzai en 2014 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui est le seul auteur à avoir reçu le prix Nobel de littérature à deux reprises ?",
+      "options": [
+        "Leo Tolstoy",
+        "John Steinbeck",
+        "Marie Curie"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "En quelle année a été décerné le premier prix Nobel d'économie ?",
+      "options": [
+        "1968",
+        "1969",
+        "1970"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Barack Obama en 2009 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a reçu le plus de prix Nobel de la paix ?",
+      "options": [
+        "États-Unis",
+        "Royaume-Uni",
+        "France"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de chimie en 2018 pour ses travaux sur les batteries lithium-ion ?",
+      "options": [
+        "John B. Goodenough",
+        "Ahmed Zewail",
+        "Marie Curie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Robert F. Furchgott, Louis J. Ignarro et Ferid Murad en 1998 ?",
+      "options": [
+        "Physique",
+        "Chimie",
+        "Médecine"
+      ],
+      "correctAnswer": 2
+    },{
+      "text": "Quel prix Nobel a été attribué à Jean-Paul Sartre en 1964 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été reçu par Albert A. Michelson en 1907 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de physique",
+        "Prix Nobel de la paix"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de littérature en 1927 ?",
+      "options": [
+        "Karin Boye",
+        "Gabriela Mistral",
+        "Henrik Ibsen"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Nelson Mandela et Frederik Willem de Klerk en 1993 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel de chimie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel lauréat a reçu le prix Nobel de médecine en 2010 pour ses recherches sur le système immunitaire ?",
+      "options": [
+        "Harald zur Hausen",
+        "Robert G. Edwards",
+        "Shinya Yamanaka"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "En quelle année le prix Nobel de littérature a-t-il été décerné à Bob Dylan ?",
+      "options": [
+        "2016",
+        "2017",
+        "2015"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été reçu par Malala Yousafzai et Kailash Satyarthi en 2014 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel scientifique a reçu le prix Nobel de chimie en 1903 avec Marie Curie ?",
+      "options": [
+        "Henri Becquerel",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Toni Morrison en 1993 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },{
+      "text": "Quel prix Nobel a été décerné à Richard Feynman en 1965 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de physique",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Albert Schweitzer en 1952 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel de médecine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été reçu par Elie Wiesel en 1986 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Ryoji Noyori et à Jean-Pierre Sauvage en 2001 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de physique",
+        "Prix Nobel de médecine"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel lauréat a reçu le prix Nobel de littérature en 1982 ?",
+      "options": [
+        "Gabriel García Márquez",
+        "Dario Fo",
+        "Yasunari Kawabata"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel est le critère principal pour le prix Nobel de la paix ?",
+      "options": [
+        "Littérature",
+        "Lutte pour la paix",
+        "Découvertes scientifiques"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à J. Michael Bishop et Harold Varmus en 1989 ?",
+      "options": [
+        "Prix Nobel de médecine",
+        "Prix Nobel de chimie",
+        "Prix Nobel de la paix"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de littérature en 1915 ?",
+      "options": [
+        "Romain Rolland",
+        "Frédéric Mistral",
+        "Thomas Mann"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Frances H. Arnold en 2018 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de la paix",
+        "Prix Nobel de médecine"
+      ],
+      "correctAnswer": 0
+    },{
+      "text": "Qui a été le premier lauréat d'origine africaine à recevoir le prix Nobel de la paix ?",
+      "options": [
+        "Nelson Mandela",
+        "Albert Lutuli",
+        "Kofi Annan"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à John Bardeen en 1956 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de physique",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Malala Yousafzai en 2014 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Doris Lessing en 2007 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel de médecine"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à l'auteur américain Toni Morrison en 1993 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de médecine en 2016 pour ses recherches sur l'oxygène dans les cellules ?",
+      "options": [
+        "Yoshinori Ohsumi",
+        "Shinya Yamanaka",
+        "Albert A. Michelson"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Albert Einstein pour sa théorie de la relativité ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de physique",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Joseph Stiglitz en 2001 ?",
+      "options": [
+        "Prix Nobel d'économie",
+        "Prix Nobel de littérature",
+        "Prix Nobel de la paix"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de chimie en 2018 pour ses travaux sur l'édition génomique ?",
+      "options": [
+        "Frances H. Arnold",
+        "Jennifer A. Doudna",
+        "Emmanuelle Charpentier"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Bob Dylan pour sa contribution à la musique ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 1
+    },{
+      "text": "Quel prix Nobel a été attribué à Marie Curie pour la première fois en 1903 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de la paix",
+        "Prix Nobel de physique"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Dmitri Mendeleïev en 1906 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel lauréat a reçu le prix Nobel de médecine en 1991 ?",
+      "options": [
+        "Richard J. Roberts",
+        "Barbara McClintock",
+        "Harold Pinter"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "text": "Qui a reçu le prix Nobel de littérature en 2003 ?",
+      "options": [
+        "J.M. Coetzee",
+        "John Banville",
+        "Doris Lessing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Paul L. Modrich en 2015 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de la paix",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Toni Morrison en 1993 ?",
+      "options": [
+        "Prix Nobel de littérature",
+        "Prix Nobel de la paix",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été décerné à Alva Myrdal en 1982 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de chimie",
+        "Prix Nobel de littérature"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Emmanuelle Charpentier et Jennifer Doudna en 2020 ?",
+      "options": [
+        "Prix Nobel de chimie",
+        "Prix Nobel de médecine",
+        "Prix Nobel de la paix"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à Barack Obama en 2009 ?",
+      "options": [
+        "Prix Nobel de la paix",
+        "Prix Nobel de littérature",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel prix Nobel a été attribué à l'écrivain japonais Yasunari Kawabata en 1968 ?",
+      "options": [
+        "Prix Nobel de littérature",
+        "Prix Nobel de la paix",
+        "Prix Nobel d'économie"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Quel pays a le plus de lauréats du prix Nobel par habitant ?",
+      "options": [
+        "Suède",
+        "France",
+        "États-Unis"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "text": "Qui a été le premier lauréat du prix Nobel de chimie ?",
+      "options": [
+        "Jacobus Henricus van 't Hoff",
+        "Marie Curie",
+        "Linus Pauling"
+      ],
       "correctAnswer": 0
     },
     {
